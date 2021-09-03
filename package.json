@@ -1,0 +1,43 @@
+{
+  "name": "touch-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=dev nodemon -e yaml,js -i \"*.test.js\" src/index.js | pino-pretty",
+    "db": "./reset-mongo.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ava": "^3.15.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "cross-env": "^5.2.0",
+    "date-fns": "^2.23.0",
+    "express": "^4.17.1",
+    "googleapis": "^85.0.0",
+    "js-yaml": "^4.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.1",
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.12",
+    "open": "^8.2.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pino": "^6.13.1",
+    "pino-pretty": "^6.0.0",
+    "promise-throttle": "^1.1.2",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v15.10.0",
+    "ws": "^8.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}

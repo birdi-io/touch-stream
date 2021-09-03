@@ -1,0 +1,4352 @@
+[
+  {
+  "id": "efb78152-b493-4e65-a24e-209b419a4757",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed 30",
+  "round": "1",
+  "teamA": "COK",
+  "teamB": "AUS",
+  "location": "Field 1"
+  },
+  {
+  "id": "d3d359b8-b88e-4c5f-8e34-005257d25fbd",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed Open",
+  "round": "1",
+  "teamA": "ITA",
+  "teamB": "DEU",
+  "location": "Field 2"
+  },
+  {
+  "id": "7f951226-16eb-49d5-8f32-85867617ee71",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed Open",
+  "round": "1",
+  "teamA": "ZAF",
+  "teamB": "CHL",
+  "location": "Field 4"
+  },
+  {
+  "id": "2b6b4774-f9f8-4a23-9bc8-570391390f44",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed Open",
+  "round": "1",
+  "teamA": "ARE",
+  "teamB": "SCO",
+  "location": "Field 5"
+  },
+  {
+  "id": "6b606fe4-32e8-4c6c-8812-03411de19b88",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed Open",
+  "round": "1",
+  "teamA": "USA",
+  "teamB": "AUS",
+  "location": "Field 7"
+  },
+  {
+  "id": "1819e0e8-62d7-4545-8867-26933b4e5dc3",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed Open",
+  "round": "1",
+  "teamA": "HKG",
+  "teamB": "ENG",
+  "location": "Field 8"
+  },
+  {
+  "id": "eb187311-002d-44ff-a6b7-8d0d97b9253b",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed 30",
+  "round": "1",
+  "teamA": "SCO",
+  "teamB": "ZAF",
+  "location": "Field 10"
+  },
+  {
+  "id": "e6ceb6ac-b975-474b-a5a1-517628f10ac1",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed 30",
+  "round": "1",
+  "teamA": "CHL",
+  "teamB": "NZL",
+  "location": "Field 11"
+  },
+  {
+  "id": "b5af8ae2-8327-4992-a8be-e643dc12dfe3",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed 30",
+  "round": "1",
+  "teamA": "ARE",
+  "teamB": "ENG",
+  "location": "Field 12"
+  },
+  {
+  "id": "35742c62-801c-40df-8280-f8cf9a977ae6",
+  "scheduledStartTime": "2019-04-29T03:15:00Z",
+  "scheduledEndTime": "2019-04-29T04:05:00Z",
+  "comp": "Mixed 30",
+  "round": "1",
+  "teamA": "SGP",
+  "teamB": "IRL",
+  "location": "Field 13"
+  },
+  {
+  "id": "82156737-a6bd-45eb-bb71-6c4d70fb3028",
+  "scheduledStartTime": "2019-04-29T04:10:00Z",
+  "scheduledEndTime": "2019-04-29T05:00:00Z",
+  "comp": "Women's 35",
+  "round": "1",
+  "teamA": "ENG",
+  "teamB": "NZL",
+  "location": "Field 2"
+  },
+  {
+  "id": "79873fd0-5112-47eb-9074-62d4d204f6ab",
+  "scheduledStartTime": "2019-04-29T04:10:00Z",
+  "scheduledEndTime": "2019-04-29T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "1",
+  "teamA": "JPN",
+  "teamB": "IRL",
+  "location": "Field 3"
+  },
+  {
+  "id": "d815c3b2-de9a-4850-aff1-00ccc41cd053",
+  "scheduledStartTime": "2019-04-29T04:10:00Z",
+  "scheduledEndTime": "2019-04-29T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "1",
+  "teamA": "SGP",
+  "teamB": "MYS",
+  "location": "Field 6"
+  },
+  {
+  "id": "5e9d78d5-b0dd-4861-9347-88c658cf38e4",
+  "scheduledStartTime": "2019-04-29T04:10:00Z",
+  "scheduledEndTime": "2019-04-29T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "1",
+  "teamA": "FRA",
+  "teamB": "ITA",
+  "location": "Field 10"
+  },
+  {
+  "id": "bc67e98c-65be-4897-a651-63159e7295c4",
+  "scheduledStartTime": "2019-04-29T04:10:00Z",
+  "scheduledEndTime": "2019-04-29T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "1",
+  "teamA": "USA",
+  "teamB": "ENG",
+  "location": "Field 11"
+  },
+  {
+  "id": "6a27ecba-9979-4234-ad18-6f069deefd15",
+  "scheduledStartTime": "2019-04-29T04:10:00Z",
+  "scheduledEndTime": "2019-04-29T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "1",
+  "teamA": "JPN",
+  "teamB": "NZL",
+  "location": "Field 12"
+  },
+  {
+  "id": "a90d42da-a72d-42f4-915e-4f187e922822",
+  "scheduledStartTime": "2019-04-29T05:05:00Z",
+  "scheduledEndTime": "2019-04-29T05:55:00Z",
+  "comp": "Men's 50",
+  "round": "1",
+  "teamA": "IRL",
+  "teamB": "SGP",
+  "location": "Field 2"
+  },
+  {
+  "id": "c8c8fcc2-f3b6-44c2-9f96-68be73de43d6",
+  "scheduledStartTime": "2019-04-29T05:05:00Z",
+  "scheduledEndTime": "2019-04-29T05:55:00Z",
+  "comp": "Men's 40",
+  "round": "1",
+  "teamA": "WAL",
+  "teamB": "BEL",
+  "location": "Field 3"
+  },
+  {
+  "id": "9ea3b732-4d58-4200-8669-7472cf1d0f37",
+  "scheduledStartTime": "2019-04-29T05:05:00Z",
+  "scheduledEndTime": "2019-04-29T05:55:00Z",
+  "comp": "Women's 35",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "EUR",
+  "location": "Field 6"
+  },
+  {
+  "id": "4b2c6afe-2ddf-4efb-afd2-1cf305ebfa20",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "2",
+  "teamA": "COK",
+  "teamB": "ENG",
+  "location": "Field 1"
+  },
+  {
+  "id": "ebca05d3-5007-4594-b59c-32d938d266ef",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "DEU",
+  "teamB": "AUS",
+  "location": "Field 2"
+  },
+  {
+  "id": "728d0167-285f-4a6b-af1d-e0f3688a4c48",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "ARE",
+  "teamB": "FRA",
+  "location": "Field 4"
+  },
+  {
+  "id": "23e4d60f-9140-4fd3-8242-d9c839bb40f6",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "HKG",
+  "teamB": "CHL",
+  "location": "Field 5"
+  },
+  {
+  "id": "19cea114-f3bb-4d02-afa8-f7bc994a4415",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "USA",
+  "teamB": "SCO",
+  "location": "Field 7"
+  },
+  {
+  "id": "dca2e83d-c0d2-4106-afc6-6f45b9b94f1f",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "ITA",
+  "teamB": "ENG",
+  "location": "Field 8"
+  },
+  {
+  "id": "3f66f526-2420-49b7-bbb3-f5c04601f8e5",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "2",
+  "teamA": "ARE",
+  "teamB": "FRA",
+  "location": "Field 10"
+  },
+  {
+  "id": "3ebcc0a4-4a27-4fa5-a4d1-133cb1506c06",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "2",
+  "teamA": "CHL",
+  "teamB": "IRL",
+  "location": "Field 11"
+  },
+  {
+  "id": "723b9e15-0a6c-439e-823d-835f421e16d2",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "2",
+  "teamA": "ZAF",
+  "teamB": "AUS",
+  "location": "Field 12"
+  },
+  {
+  "id": "d330c2bb-ab61-448b-95d6-a0ea4846abdc",
+  "scheduledStartTime": "2019-04-29T06:00:00Z",
+  "scheduledEndTime": "2019-04-29T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "2",
+  "teamA": "SCO",
+  "teamB": "NZL",
+  "location": "Field 13"
+  },
+  {
+  "id": "c94188ea-35b1-4940-9ed3-7eb1b5607baa",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "FJI",
+  "teamB": "WAL",
+  "location": "Field 1"
+  },
+  {
+  "id": "e8a07fee-907a-4ce2-a7d3-baecee1b4e70",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "SGP",
+  "teamB": "JPN",
+  "location": "Field 4"
+  },
+  {
+  "id": "809ffedc-6e56-48ca-9200-c8aecdc18210",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "MYS",
+  "teamB": "WSM",
+  "location": "Field 5"
+  },
+  {
+  "id": "ca7d6b6f-7e85-41e4-969b-f891c9f263e6",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "TPE",
+  "teamB": "NZL",
+  "location": "Field 7"
+  },
+  {
+  "id": "c5e3ee16-9991-48c5-9015-90671230150c",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Mixed Open",
+  "round": "2",
+  "teamA": "CHN",
+  "teamB": "PNG",
+  "location": "Field 8"
+  },
+  {
+  "id": "f57a5e18-811d-4946-9e1f-2db085103f1e",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Men's 40",
+  "round": "2",
+  "teamA": "JPN",
+  "teamB": "IRL",
+  "location": "Field 11"
+  },
+  {
+  "id": "0b015b25-cf47-4d19-801b-12ee985df3ce",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Men's 40",
+  "round": "2",
+  "teamA": "MYS",
+  "teamB": "NZL",
+  "location": "Field 12"
+  },
+  {
+  "id": "675286a2-e6c1-4206-a476-8cd4f52c25d0",
+  "scheduledStartTime": "2019-04-29T06:55:00Z",
+  "scheduledEndTime": "2019-04-29T07:45:00Z",
+  "comp": "Men's 40",
+  "round": "2",
+  "teamA": "SGP",
+  "teamB": "ENG",
+  "location": "Field 13"
+  },
+  {
+  "id": "aabc8425-386b-4ab0-909d-af33b7133d65",
+  "scheduledStartTime": "2019-04-29T07:50:00Z",
+  "scheduledEndTime": "2019-04-29T08:40:00Z",
+  "comp": "Men's 40",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "ARE",
+  "location": "Field 2"
+  },
+  {
+  "id": "b221c8b7-ed4c-439b-b986-e8ffd432a6cc",
+  "scheduledStartTime": "2019-04-29T07:50:00Z",
+  "scheduledEndTime": "2019-04-29T08:40:00Z",
+  "comp": "Men's 50",
+  "round": "1",
+  "teamA": "JPN",
+  "teamB": "NZL",
+  "location": "Field 3"
+  },
+  {
+  "id": "dde115d6-bfe5-4ab7-9c84-e1b94563883c",
+  "scheduledStartTime": "2019-04-29T07:50:00Z",
+  "scheduledEndTime": "2019-04-29T08:40:00Z",
+  "comp": "Women's 35",
+  "round": "2",
+  "teamA": "AUS",
+  "teamB": "NZL",
+  "location": "Field 6"
+  },
+  {
+  "id": "46646993-57f0-4179-b319-f153bb67795f",
+  "scheduledStartTime": "2019-04-29T08:45:00Z",
+  "scheduledEndTime": "2019-04-29T09:35:00Z",
+  "comp": "Women's 35",
+  "round": "2",
+  "teamA": "EUR",
+  "teamB": "ENG",
+  "location": "Field 1"
+  },
+  {
+  "id": "d236c6df-fc18-44f0-8c48-2a2fbb3a016e",
+  "scheduledStartTime": "2019-04-29T08:45:00Z",
+  "scheduledEndTime": "2019-04-29T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "3",
+  "teamA": "FRA",
+  "teamB": "ZAF",
+  "location": "Field 4"
+  },
+  {
+  "id": "3b300799-a9ff-4fc9-bdd2-7b38c7024cff",
+  "scheduledStartTime": "2019-04-29T08:45:00Z",
+  "scheduledEndTime": "2019-04-29T09:35:00Z",
+  "comp": "Men's 50",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "GBR",
+  "location": "Field 7"
+  },
+  {
+  "id": "669a0252-a29b-4909-b8e5-e8117d572e81",
+  "scheduledStartTime": "2019-04-29T08:45:00Z",
+  "scheduledEndTime": "2019-04-29T09:35:00Z",
+  "comp": "Mixed 30",
+  "round": "3",
+  "teamA": "FRA",
+  "teamB": "SGP",
+  "location": "Field 10"
+  },
+  {
+  "id": "76eca09b-2226-498b-b8a5-f40cba3d71ec",
+  "scheduledStartTime": "2019-04-29T09:40:00Z",
+  "scheduledEndTime": "2019-04-29T10:30:00Z",
+  "comp": "Mixed Open",
+  "round": "3",
+  "teamA": "SGP",
+  "teamB": "WSM",
+  "location": "Field 2"
+  },
+  {
+  "id": "83021a41-140d-4d91-aeae-6a11691239b8",
+  "scheduledStartTime": "2019-04-29T09:40:00Z",
+  "scheduledEndTime": "2019-04-29T10:30:00Z",
+  "comp": "Mixed Open",
+  "round": "3",
+  "teamA": "FJI",
+  "teamB": "PNG",
+  "location": "Field 3"
+  },
+  {
+  "id": "f73c1f7f-0056-442f-a597-03f08fb41699",
+  "scheduledStartTime": "2019-04-29T09:40:00Z",
+  "scheduledEndTime": "2019-04-29T10:30:00Z",
+  "comp": "Mixed Open",
+  "round": "3",
+  "teamA": "IRL",
+  "teamB": "WAL",
+  "location": "Field 6"
+  },
+  {
+  "id": "286bcba0-f7f1-49c5-b5a0-6e7ed0ffc2f4",
+  "scheduledStartTime": "2019-04-29T09:40:00Z",
+  "scheduledEndTime": "2019-04-29T10:30:00Z",
+  "comp": "Mixed Open",
+  "round": "3",
+  "teamA": "MYS",
+  "teamB": "NZL",
+  "location": "Field 8"
+  },
+  {
+  "id": "6882b23c-f97d-4cf8-a0ee-c79d4b2a72ce",
+  "scheduledStartTime": "2019-04-29T09:40:00Z",
+  "scheduledEndTime": "2019-04-29T10:30:00Z",
+  "comp": "Men's 40",
+  "round": "3",
+  "teamA": "IRL",
+  "teamB": "USA",
+  "location": "Field 11"
+  },
+  {
+  "id": "92a7cb7f-c0ae-4743-be73-136e7303f631",
+  "scheduledStartTime": "2019-04-29T09:40:00Z",
+  "scheduledEndTime": "2019-04-29T10:30:00Z",
+  "comp": "Mixed Open",
+  "round": "3",
+  "teamA": "CHN",
+  "teamB": "TPE",
+  "location": "Field 13"
+  },
+  {
+  "id": "29d69840-3426-4178-9afd-103e03ae5f4d",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "4",
+  "teamA": "JPN",
+  "teamB": "WSM",
+  "location": "Field 2"
+  },
+  {
+  "id": "8aaea388-c6ae-44b3-ab06-47e22da4af7e",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "4",
+  "teamA": "CHL",
+  "teamB": "ARE",
+  "location": "Field 3"
+  },
+  {
+  "id": "975415c2-d8d9-4390-af36-a554bb1811f4",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Women's Open",
+  "round": "1",
+  "teamA": "FRA",
+  "teamB": "PNG",
+  "location": "Field 4"
+  },
+  {
+  "id": "b4b81595-2c8c-4b2b-90aa-c702c00d8537",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "4",
+  "teamA": "SGP",
+  "teamB": "NZL",
+  "location": "Field 5"
+  },
+  {
+  "id": "69bbe7e0-b131-43cd-8096-95d02fa5b4a5",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Men's 40",
+  "round": "4",
+  "teamA": "WAL",
+  "teamB": "FRA",
+  "location": "Field 6"
+  },
+  {
+  "id": "f437d690-6e15-4429-a835-3669f073797a",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "4",
+  "teamA": "COK",
+  "teamB": "SCO",
+  "location": "Field 7"
+  },
+  {
+  "id": "fd0ac5a4-3a42-47af-94f5-9a60645c2984",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Men's 50",
+  "round": "2",
+  "teamA": "AUS",
+  "teamB": "SGP",
+  "location": "Field 9"
+  },
+  {
+  "id": "abfd028d-1c1c-47b7-a857-1afc5fa3eb27",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Men's 50",
+  "round": "2",
+  "teamA": "GBR",
+  "teamB": "NZL",
+  "location": "Field 10"
+  },
+  {
+  "id": "e38e8961-abc4-4d71-9897-21150414d350",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "4",
+  "teamA": "IRL",
+  "teamB": "PNG",
+  "location": "Field 11"
+  },
+  {
+  "id": "c032143f-bbf0-40b4-aae1-ad2e2d6bff06",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Men's 40",
+  "round": "4",
+  "teamA": "ARE",
+  "teamB": "ITA",
+  "location": "Field 12"
+  },
+  {
+  "id": "cf48dc26-b20c-47da-b915-a6d1a4fcdf8e",
+  "scheduledStartTime": "2019-04-30T00:00:00Z",
+  "scheduledEndTime": "2019-04-30T00:50:00Z",
+  "comp": "Men's 40",
+  "round": "4",
+  "teamA": "AUS",
+  "teamB": "BEL",
+  "location": "Field 13"
+  },
+  {
+  "id": "fbc735f0-bf5e-434f-b8a4-449e3ff44615",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "4",
+  "teamA": "CHL",
+  "teamB": "ZAF",
+  "location": "Field 2"
+  },
+  {
+  "id": "74953d19-60e6-4ef8-9fb4-4a52fe9af507",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "COK",
+  "teamB": "PNG",
+  "location": "Field 3"
+  },
+  {
+  "id": "ec58c549-faad-4b0b-89e8-8c2584e19d32",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "1",
+  "teamA": "SCO",
+  "teamB": "JPN",
+  "location": "Field 4"
+  },
+  {
+  "id": "81720b48-93ca-469f-9c91-64fcc8a3c61a",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "1",
+  "teamA": "ZAF",
+  "teamB": "CHN",
+  "location": "Field 5"
+  },
+  {
+  "id": "7a592dd7-9d0b-47e1-a83d-80c7c8dbb397",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Men's 50",
+  "round": "2",
+  "teamA": "IRL",
+  "teamB": "JPN",
+  "location": "Field 6"
+  },
+  {
+  "id": "c9423016-4269-415a-8a14-ef2434fbad61",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "4",
+  "teamA": "ARE",
+  "teamB": "AUS",
+  "location": "Field 8"
+  },
+  {
+  "id": "b677f59a-d3ac-45cd-9b01-2f1322105969",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "4",
+  "teamA": "FRA",
+  "teamB": "ENG",
+  "location": "Field 10"
+  },
+  {
+  "id": "4c58c61f-1e4a-4ffe-a173-7d10de766924",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "4",
+  "teamA": "SGP",
+  "teamB": "NZL",
+  "location": "Field 11"
+  },
+  {
+  "id": "acba73d9-427e-41fa-a04e-8c8c87214817",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "4",
+  "teamA": "FJI",
+  "teamB": "TPE",
+  "location": "Field 12"
+  },
+  {
+  "id": "a6324f89-82d7-45e8-9bd2-714c572b6512",
+  "scheduledStartTime": "2019-04-30T00:50:00Z",
+  "scheduledEndTime": "2019-04-30T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "4",
+  "teamA": "MYS",
+  "teamB": "CHN",
+  "location": "Field 13"
+  },
+  {
+  "id": "c6dc919b-3bbd-45f3-abfd-3d877833024a",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's 30",
+  "round": "1",
+  "teamA": "USA",
+  "teamB": "SGP",
+  "location": "Field 1"
+  },
+  {
+  "id": "1b5a17c9-3ee5-4c72-a0ec-082c84a0cdac",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "USA",
+  "teamB": "NLD",
+  "location": "Field 3"
+  },
+  {
+  "id": "0aa4eecf-c124-4ad3-89dd-1386de358118",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "PHL",
+  "teamB": "NZL",
+  "location": "Field 4"
+  },
+  {
+  "id": "2a2f34dc-4ebb-4ea5-b569-6d4ac7a81c21",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "ZAF",
+  "teamB": "WSM",
+  "location": "Field 7"
+  },
+  {
+  "id": "9ba8f33b-aeb4-43bf-bcd2-6d964fc045ae",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "IRL",
+  "teamB": "FRA",
+  "location": "Field 8"
+  },
+  {
+  "id": "89123bde-f729-4cc7-8e70-3b72b79695e5",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's 30",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "ZAF",
+  "location": "Field 10"
+  },
+  {
+  "id": "4ef75fe6-04f5-4b97-ad69-207c3dfa0d0d",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Men's 40",
+  "round": "4",
+  "teamA": "ENG",
+  "teamB": "JPN",
+  "location": "Field 11"
+  },
+  {
+  "id": "2fb8ba4e-3f7e-46da-9ea5-73ec972e4146",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Women's 27",
+  "round": "3",
+  "teamA": "ENG",
+  "teamB": "FRA",
+  "location": "Field 12"
+  },
+  {
+  "id": "6e2150a5-e964-4265-8cf7-a03c814ed299",
+  "scheduledStartTime": "2019-04-30T01:40:00Z",
+  "scheduledEndTime": "2019-04-30T02:30:00Z",
+  "comp": "Women's 35",
+  "round": "3",
+  "teamA": "NZL",
+  "teamB": "EUR",
+  "location": "Field 13"
+  },
+  {
+  "id": "120ecceb-ce41-469a-8e1a-77d8e2a46d85",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "1",
+  "teamA": "ENG",
+  "teamB": "WSM",
+  "location": "Field 2"
+  },
+  {
+  "id": "26b48dee-4954-4a3d-832f-865136fe18f5",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "SGP",
+  "location": "Field 3"
+  },
+  {
+  "id": "463740be-4fa6-4894-80cf-46fc929ed79f",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Women's 35",
+  "round": "3",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 5"
+  },
+  {
+  "id": "af13198a-bae3-4ffa-83e8-68ff7d538fc3",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "FJI",
+  "location": "Field 6"
+  },
+  {
+  "id": "ba10c8fd-3010-45bb-98a4-c993ea868d47",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "SCO",
+  "teamB": "FJI",
+  "location": "Field 7"
+  },
+  {
+  "id": "4c5c0118-90a2-44a2-b941-394dfb3b0c00",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's 35",
+  "round": "1",
+  "teamA": "NZL",
+  "teamB": "USA",
+  "location": "Field 8"
+  },
+  {
+  "id": "cad077ea-fb57-4306-8b88-3b0f392f9854",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's 30",
+  "round": "1",
+  "teamA": "FJI",
+  "teamB": "JPN",
+  "location": "Field 9"
+  },
+  {
+  "id": "d1397e48-8856-4b77-9419-7c43f9fe5b4a",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's 30",
+  "round": "1",
+  "teamA": "ENG",
+  "teamB": "FRA",
+  "location": "Field 10"
+  },
+  {
+  "id": "a24424ea-b1c7-422f-867f-a4df26e7bbe4",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's 45",
+  "round": "1",
+  "teamA": "WAL",
+  "teamB": "AUS",
+  "location": "Field 11"
+  },
+  {
+  "id": "62d9f697-9b19-4ef5-8a83-4f5b155725d8",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's 45",
+  "round": "1",
+  "teamA": "ENG",
+  "teamB": "NZL",
+  "location": "Field 12"
+  },
+  {
+  "id": "f1ce43be-3a2d-405b-933d-092da21853c8",
+  "scheduledStartTime": "2019-04-30T02:30:00Z",
+  "scheduledEndTime": "2019-04-30T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "1",
+  "teamA": "ENG",
+  "teamB": "JPN",
+  "location": "Field 13"
+  },
+  {
+  "id": "54ca71fa-3745-4c4c-8185-4358a4ee3cf8",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "ZAF",
+  "teamB": "ENG",
+  "location": "Field 2"
+  },
+  {
+  "id": "d16d593d-acad-4f09-a01e-41eb143a7dfa",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "FRA",
+  "teamB": "SCO",
+  "location": "Field 4"
+  },
+  {
+  "id": "6868f5b1-691d-478e-ac58-d200fa01e4dd",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "USA",
+  "teamB": "ITA",
+  "location": "Field 5"
+  },
+  {
+  "id": "17ec7dc6-11b2-414d-8262-4921287ebd83",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Men's 35",
+  "round": "1",
+  "teamA": "ENG",
+  "teamB": "FJI",
+  "location": "Field 6"
+  },
+  {
+  "id": "4cc21610-fea6-48d4-92ce-0f6ef19dfda1",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "NLD",
+  "teamB": "WAL",
+  "location": "Field 7"
+  },
+  {
+  "id": "39aa956a-d548-449a-9964-8d0c3bbe2077",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "USA",
+  "teamB": "FRA",
+  "location": "Field 8"
+  },
+  {
+  "id": "e8b4afe9-a014-43f4-ad17-efa486962df3",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "PHL",
+  "teamB": "SGP",
+  "location": "Field 9"
+  },
+  {
+  "id": "76961790-f963-4740-ac78-194724eeb4a9",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "MYS",
+  "teamB": "NZL",
+  "location": "Field 10"
+  },
+  {
+  "id": "a92cbbda-35ca-44e2-b57b-20c1748a0fd9",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Men's 45",
+  "round": "1",
+  "teamA": "ZAF",
+  "teamB": "FJI",
+  "location": "Field 11"
+  },
+  {
+  "id": "82746452-57a9-4fa0-b61b-c9bec881c488",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Men's 40",
+  "round": "5",
+  "teamA": "ARE",
+  "teamB": "WAL",
+  "location": "Field 12"
+  },
+  {
+  "id": "f7737dcc-cb48-48e2-81a3-49edffe1a76b",
+  "scheduledStartTime": "2019-04-30T03:20:00Z",
+  "scheduledEndTime": "2019-04-30T04:10:00Z",
+  "comp": "Men's 40",
+  "round": "5",
+  "teamA": "BEL",
+  "teamB": "FRA",
+  "location": "Field 13"
+  },
+  {
+  "id": "1d695723-9eb8-487b-b8a2-0aaf34d042c4",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "NZL",
+  "teamB": "PNG",
+  "location": "Field 1"
+  },
+  {
+  "id": "eafe2cb3-c581-40c0-bf7e-b0dd5a40cfb9",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "HKG",
+  "teamB": "DEU",
+  "location": "Field 3"
+  },
+  {
+  "id": "678d727c-badd-48ef-a841-49af3d9e483c",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "ARE",
+  "teamB": "AUS",
+  "location": "Field 4"
+  },
+  {
+  "id": "a442e137-db38-4de7-925a-d0c7bfedc598",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "COK",
+  "teamB": "WAL",
+  "location": "Field 5"
+  },
+  {
+  "id": "f6f60402-f720-497e-b872-bad74bd90064",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "5",
+  "teamA": "SCO",
+  "teamB": "IRL",
+  "location": "Field 7"
+  },
+  {
+  "id": "0e21a5f8-6a33-403c-90ad-946c9c3a5589",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "5",
+  "teamA": "CHL",
+  "teamB": "SGP",
+  "location": "Field 8"
+  },
+  {
+  "id": "a53ccf98-e5fd-475a-9974-75b77f07285e",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "FJI",
+  "teamB": "IRL",
+  "location": "Field 9"
+  },
+  {
+  "id": "59ffdbd5-3fb4-4875-bbe7-36141e7d00e8",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "TPE",
+  "teamB": "WSM",
+  "location": "Field 10"
+  },
+  {
+  "id": "333cbb45-3858-42cb-b040-845a736996eb",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "5",
+  "teamA": "USA",
+  "teamB": "MYS",
+  "location": "Field 11"
+  },
+  {
+  "id": "54de5a9c-8133-46e5-8be9-48039279e121",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Women's 27",
+  "round": "1",
+  "teamA": "ZAF",
+  "teamB": "USA",
+  "location": "Field 12"
+  },
+  {
+  "id": "8918c1aa-afec-4951-a0ef-533651573df2",
+  "scheduledStartTime": "2019-04-30T04:10:00Z",
+  "scheduledEndTime": "2019-04-30T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "ITA",
+  "location": "Field 13"
+  },
+  {
+  "id": "845c9e7c-4d88-42b9-9b04-2eb07718ea60",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "CHN",
+  "teamB": "WAL",
+  "location": "Field 1"
+  },
+  {
+  "id": "ca64d0a8-7eea-4bff-b8b9-7ef8ac82144f",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "NLD",
+  "teamB": "NZL",
+  "location": "Field 3"
+  },
+  {
+  "id": "49b99a6c-6d23-4cf8-be0a-fbf1b8820d7e",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "USA",
+  "teamB": "PNG",
+  "location": "Field 5"
+  },
+  {
+  "id": "39e9e535-17fe-4c21-8991-ee9201f31168",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Men's 35",
+  "round": "1",
+  "teamA": "AUS",
+  "teamB": "COK",
+  "location": "Field 6"
+  },
+  {
+  "id": "f335a443-580f-421f-b442-28a8381c4f7d",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Women's 27",
+  "round": "1",
+  "teamA": "SGP",
+  "teamB": "AUS",
+  "location": "Field 7"
+  },
+  {
+  "id": "762f839d-3c5e-4662-b12e-2f17756977dd",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "PHL",
+  "teamB": "FRA",
+  "location": "Field 8"
+  },
+  {
+  "id": "6a7e3a19-2331-43ce-bf50-ffcd41a6467e",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "5",
+  "teamA": "MYS",
+  "teamB": "JPN",
+  "location": "Field 9"
+  },
+  {
+  "id": "51ff5825-3e4b-48fd-87bb-6ac467d89b1b",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Men's 40",
+  "round": "5",
+  "teamA": "JPN",
+  "teamB": "SGP",
+  "location": "Field 10"
+  },
+  {
+  "id": "3dde31cb-c097-4a5f-b350-a50f793b1722",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Men's 40",
+  "round": "5",
+  "teamA": "IRL",
+  "teamB": "NZL",
+  "location": "Field 11"
+  },
+  {
+  "id": "8fca0bc8-cdfa-46cc-98d6-07898d95c435",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Mixed 30",
+  "round": "5",
+  "teamA": "COK",
+  "teamB": "FRA",
+  "location": "Field 12"
+  },
+  {
+  "id": "3b4b5687-b875-4564-830b-1f3ddd6ae955",
+  "scheduledStartTime": "2019-04-30T05:05:00Z",
+  "scheduledEndTime": "2019-04-30T05:55:00Z",
+  "comp": "Women's 27",
+  "round": "1",
+  "teamA": "FRA",
+  "teamB": "NZL",
+  "location": "Field 13"
+  },
+  {
+  "id": "3f4620fd-9181-40c7-8859-5c997dc74e53",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "NZL",
+  "location": "Field 2"
+  },
+  {
+  "id": "2ff7dcab-5282-47bd-bfe5-6adaa810a4b4",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Men's 30",
+  "round": "2",
+  "teamA": "USA",
+  "teamB": "JPN",
+  "location": "Field 3"
+  },
+  {
+  "id": "c16ed25b-c450-494e-802a-c02a7239db9c",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "FJI",
+  "teamB": "WSM",
+  "location": "Field 4"
+  },
+  {
+  "id": "3a9dbf97-3803-4c4f-96ec-65957246caa8",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "AUS",
+  "teamB": "CHN",
+  "location": "Field 5"
+  },
+  {
+  "id": "76360372-708b-46ea-b23f-5c7deb598390",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Mixed 30",
+  "round": "5",
+  "teamA": "ZAF",
+  "teamB": "ENG",
+  "location": "Field 6"
+  },
+  {
+  "id": "04c080e3-1857-4021-b0e7-94eee061f75a",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "AUS",
+  "teamB": "WSM",
+  "location": "Field 7"
+  },
+  {
+  "id": "80d01888-2995-42d8-8c9f-364b89cf74c1",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Men's 30",
+  "round": "2",
+  "teamA": "ZAF",
+  "teamB": "FRA",
+  "location": "Field 10"
+  },
+  {
+  "id": "bda85f40-4390-41c8-ae57-ae92c77d6b0d",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "ZAF",
+  "teamB": "FJI",
+  "location": "Field 11"
+  },
+  {
+  "id": "931d1318-1d26-4f6a-9d0a-95649c91ffbe",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "SGP",
+  "teamB": "JPN",
+  "location": "Field 12"
+  },
+  {
+  "id": "01090292-4dab-44d8-9961-6e017cdae922",
+  "scheduledStartTime": "2019-04-30T06:00:00Z",
+  "scheduledEndTime": "2019-04-30T06:50:00Z",
+  "comp": "Women's 35",
+  "round": "4",
+  "teamA": "ENG",
+  "teamB": "NZL",
+  "location": "Field 13"
+  },
+  {
+  "id": "c063a4c7-28f5-4316-b983-669a1459fa56",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Women's Open",
+  "round": "3",
+  "teamA": "PHL",
+  "teamB": "MYS",
+  "location": "Field 2"
+  },
+  {
+  "id": "ed3050e4-6ee4-4b24-bf10-24425bf3a81c",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "ENG",
+  "teamB": "SCO",
+  "location": "Field 3"
+  },
+  {
+  "id": "7c4bce2d-ed96-4711-afda-d8a6187b834b",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Women's Open",
+  "round": "2",
+  "teamA": "ZAF",
+  "teamB": "JPN",
+  "location": "Field 4"
+  },
+  {
+  "id": "c7bf6848-babe-4a4d-bd8d-867f7ca8c0d7",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Men's 30",
+  "round": "2",
+  "teamA": "AUS",
+  "teamB": "SGP",
+  "location": "Field 5"
+  },
+  {
+  "id": "c75be4cf-e280-443a-8097-a733ae275ab9",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Men's Open",
+  "round": "2",
+  "teamA": "ENG",
+  "teamB": "SCO",
+  "location": "Field 6"
+  },
+  {
+  "id": "8be76e83-0ccd-4c0a-9f90-ba0604ae7a9f",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Women's Open",
+  "round": "3",
+  "teamA": "USA",
+  "teamB": "SGP",
+  "location": "Field 8"
+  },
+  {
+  "id": "6473605f-9d05-4fac-8255-7109f9c76819",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Men's 30",
+  "round": "2",
+  "teamA": "ENG",
+  "teamB": "FJI",
+  "location": "Field 10"
+  },
+  {
+  "id": "8dab6879-d7b2-44d7-bafb-8daf0ceeea9d",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Men's 50",
+  "round": "3",
+  "teamA": "SGP",
+  "teamB": "JPN",
+  "location": "Field 11"
+  },
+  {
+  "id": "2eb735ac-f207-4d5d-8e53-3be00710e76a",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Men's 50",
+  "round": "3",
+  "teamA": "AUS",
+  "teamB": "NZL",
+  "location": "Field 12"
+  },
+  {
+  "id": "bfe6444b-9262-466d-9d26-0d4136ccdb43",
+  "scheduledStartTime": "2019-04-30T06:55:00Z",
+  "scheduledEndTime": "2019-04-30T07:45:00Z",
+  "comp": "Women's 35",
+  "round": "4",
+  "teamA": "AUS",
+  "teamB": "EUR",
+  "location": "Field 13"
+  },
+  {
+  "id": "8cedb26d-fa99-4878-ad2d-7a7fbe9ee483",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "6",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 1"
+  },
+  {
+  "id": "f3d6e481-4ec3-41cc-b938-d2126d8af809",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "6",
+  "teamA": "ITA",
+  "teamB": "CHL",
+  "location": "Field 4"
+  },
+  {
+  "id": "de6cec61-839a-42ae-982f-12ec7aef120b",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Men's 45",
+  "round": "2",
+  "teamA": "NZL",
+  "teamB": "AUS",
+  "location": "Field 6"
+  },
+  {
+  "id": "257a2d85-609c-4dad-a0a0-fb527cfcef48",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Mixed 30",
+  "round": "6",
+  "teamA": "IRL",
+  "teamB": "ARE",
+  "location": "Field 7"
+  },
+  {
+  "id": "f2b125df-b35d-461b-b61d-1b50a9ff31d8",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "6",
+  "teamA": "USA",
+  "teamB": "FRA",
+  "location": "Field 8"
+  },
+  {
+  "id": "caa1617d-f7c5-4608-880f-519575c601da",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Women's Open",
+  "round": "3",
+  "teamA": "PNG",
+  "teamB": "WAL",
+  "location": "Field 10"
+  },
+  {
+  "id": "781ec0fb-f6f4-4e79-b794-8e8730c8fa10",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Women's Open",
+  "round": "3",
+  "teamA": "NLD",
+  "teamB": "NZL",
+  "location": "Field 11"
+  },
+  {
+  "id": "c86fd644-c758-49ad-8e21-88c629e03ca9",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Women's 27",
+  "round": "2",
+  "teamA": "USA",
+  "teamB": "AUS",
+  "location": "Field 12"
+  },
+  {
+  "id": "6c76b205-375e-425e-9f6e-ef2ef78d78e7",
+  "scheduledStartTime": "2019-04-30T07:50:00Z",
+  "scheduledEndTime": "2019-04-30T08:40:00Z",
+  "comp": "Men's 50",
+  "round": "3",
+  "teamA": "GBR",
+  "teamB": "IRL",
+  "location": "Field 13"
+  },
+  {
+  "id": "3bba61e2-cca5-40e1-b833-e4ba13445924",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "6",
+  "teamA": "DEU",
+  "teamB": "SCO",
+  "location": "Field 1"
+  },
+  {
+  "id": "eea3a300-4007-4a24-87a3-0670252e5230",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "6",
+  "teamA": "HKG",
+  "teamB": "ZAF",
+  "location": "Field 3"
+  },
+  {
+  "id": "4faae69f-cb70-49ce-96f6-ca7695b3f763",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Women's 27",
+  "round": "2",
+  "teamA": "ZAF",
+  "teamB": "NZL",
+  "location": "Field 4"
+  },
+  {
+  "id": "ef703f20-e096-4caa-995f-4c148cacf687",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Men's Open",
+  "round": "3",
+  "teamA": "WAL",
+  "teamB": "IRL",
+  "location": "Field 5"
+  },
+  {
+  "id": "8e185b53-7448-4b67-aee6-dc6df215f9de",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Men's 40",
+  "round": "6",
+  "teamA": "MYS",
+  "teamB": "IRL",
+  "location": "Field 7"
+  },
+  {
+  "id": "efde02a6-65b1-4aae-8c5c-ba9a4cfed3f3",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Men's 45",
+  "round": "2",
+  "teamA": "ZAF",
+  "teamB": "WAL",
+  "location": "Field 8"
+  },
+  {
+  "id": "d6acaeb2-b7bf-499e-be78-4ee1a71f9422",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Men's 45",
+  "round": "2",
+  "teamA": "ENG",
+  "teamB": "FJI",
+  "location": "Field 9"
+  },
+  {
+  "id": "26010b6b-cc5e-4921-b1ed-260ea4213cf0",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Men's 40",
+  "round": "6",
+  "teamA": "NZL",
+  "teamB": "ENG",
+  "location": "Field 10"
+  },
+  {
+  "id": "6d193657-cef2-4e29-9866-84a13a58207f",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Men's 40",
+  "round": "6",
+  "teamA": "SGP",
+  "teamB": "USA",
+  "location": "Field 11"
+  },
+  {
+  "id": "ddc26c27-74ae-4e5b-9664-dfaec569f4dd",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "6",
+  "teamA": "WAL",
+  "teamB": "SGP",
+  "location": "Field 12"
+  },
+  {
+  "id": "d7ec437e-dcff-4c4a-9522-7d8a2e062f12",
+  "scheduledStartTime": "2019-04-30T08:45:00Z",
+  "scheduledEndTime": "2019-04-30T09:35:00Z",
+  "comp": "Women's 27",
+  "round": "2",
+  "teamA": "SGP",
+  "teamB": "ENG",
+  "location": "Field 13"
+  },
+  {
+  "id": "e025d68a-f663-4fda-8602-86d3700a7f46",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Women's 27",
+  "round": "4",
+  "teamA": "FRA",
+  "teamB": "USA",
+  "location": "Field 1"
+  },
+  {
+  "id": "aed17b2d-d509-4f64-a549-9054297b939e",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "NLD",
+  "teamB": "PHL",
+  "location": "Field 3"
+  },
+  {
+  "id": "0bd96ac0-f971-4e0d-b848-87678a89a350",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Men's 50",
+  "round": "4",
+  "teamA": "NZL",
+  "teamB": "IRL",
+  "location": "Field 5"
+  },
+  {
+  "id": "e6b15c57-8bac-48f3-b218-b12589c1512b",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "7",
+  "teamA": "SCO",
+  "teamB": "HKG",
+  "location": "Field 6"
+  },
+  {
+  "id": "03034c94-569b-494f-a7d0-5c76585844c1",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "7",
+  "teamA": "ARE",
+  "teamB": "SCO",
+  "location": "Field 7"
+  },
+  {
+  "id": "7bd0fe66-f030-4744-91d9-d576bec29d62",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "7",
+  "teamA": "SGP",
+  "teamB": "ZAF",
+  "location": "Field 8"
+  },
+  {
+  "id": "a8fe7a85-f5af-4b33-bd01-15364dc5c9cc",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Men's 50",
+  "round": "4",
+  "teamA": "AUS",
+  "teamB": "JPN",
+  "location": "Field 9"
+  },
+  {
+  "id": "1e5eac90-807d-4665-bb1f-e4e182492670",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Men's 40",
+  "round": "7",
+  "teamA": "ENG",
+  "teamB": "MYS",
+  "location": "Field 10"
+  },
+  {
+  "id": "be06e146-1414-4b6f-b209-8a8d7667872d",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Men's 40",
+  "round": "7",
+  "teamA": "IRL",
+  "teamB": "SGP",
+  "location": "Field 11"
+  },
+  {
+  "id": "e1ffda0c-0b16-4958-ba8d-c5f03d139995",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Men's 35",
+  "round": "2",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 12"
+  },
+  {
+  "id": "1760d1e6-59f3-4982-b308-88c5ee998ec6",
+  "scheduledStartTime": "2019-05-01T00:00:00Z",
+  "scheduledEndTime": "2019-05-01T00:50:00Z",
+  "comp": "Women's 27",
+  "round": "4",
+  "teamA": "ENG",
+  "teamB": "AUS",
+  "location": "Field 13"
+  },
+  {
+  "id": "ae7c3967-18cb-48e6-9082-affb34106b90",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "7",
+  "teamA": "WSM",
+  "teamB": "FJI",
+  "location": "Field 2"
+  },
+  {
+  "id": "cbac5310-92ec-4dd5-96cd-8f41b90d1841",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "FRA",
+  "teamB": "SGP",
+  "location": "Field 3"
+  },
+  {
+  "id": "358d735f-deb2-48f3-b810-81cb7585381b",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "PNG",
+  "teamB": "NZL",
+  "location": "Field 4"
+  },
+  {
+  "id": "1b6e831d-d20b-4a31-8c98-62a3128dfcdc",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "USA",
+  "teamB": "MYS",
+  "location": "Field 5"
+  },
+  {
+  "id": "3b8f06b7-53a3-4a8c-847b-09f5418989c3",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Men's 35",
+  "round": "2",
+  "teamA": "NZL",
+  "teamB": "COK",
+  "location": "Field 6"
+  },
+  {
+  "id": "ec1f44c7-035f-4468-be3f-dd8d07c02742",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "7",
+  "teamA": "IRL",
+  "teamB": "NZL",
+  "location": "Field 8"
+  },
+  {
+  "id": "9ed55f1b-0291-49a5-8e9e-0e72f79b8f9e",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "7",
+  "teamA": "FRA",
+  "teamB": "AUS",
+  "location": "Field 9"
+  },
+  {
+  "id": "66b9964a-964d-4644-ba1a-1b1371304d7c",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Men's 35",
+  "round": "2",
+  "teamA": "USA",
+  "teamB": "FJI",
+  "location": "Field 10"
+  },
+  {
+  "id": "29c71d45-28fc-486d-9983-409f299c8a6d",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Men's 40",
+  "round": "7",
+  "teamA": "USA",
+  "teamB": "JPN",
+  "location": "Field 11"
+  },
+  {
+  "id": "f50067ce-b448-472f-8a18-572c656ae6b6",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Women's 27",
+  "round": "4",
+  "teamA": "SGP",
+  "teamB": "ZAF",
+  "location": "Field 12"
+  },
+  {
+  "id": "17e391f9-a0c1-4136-b43d-39a10b6700f6",
+  "scheduledStartTime": "2019-05-01T00:50:00Z",
+  "scheduledEndTime": "2019-05-01T01:40:00Z",
+  "comp": "Men's 50",
+  "round": "4",
+  "teamA": "SGP",
+  "teamB": "GBR",
+  "location": "Field 13"
+  },
+  {
+  "id": "349f9bcc-63de-4102-9c2b-03440a20ce2a",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Women's 35",
+  "round": "5",
+  "teamA": "EUR",
+  "teamB": "ENG",
+  "location": "Field 1"
+  },
+  {
+  "id": "136fdc8b-f12b-42de-8d23-39b6194b42bb",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "COK",
+  "teamB": "NLD",
+  "location": "Field 4"
+  },
+  {
+  "id": "1f07bc52-d01e-428c-961e-f5c3dd5707e9",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "PHL",
+  "teamB": "USA",
+  "location": "Field 7"
+  },
+  {
+  "id": "81123b6a-bb3f-4986-8f48-df2349274d08",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Mixed 30",
+  "round": "7",
+  "teamA": "CHL",
+  "teamB": "COK",
+  "location": "Field 8"
+  },
+  {
+  "id": "2bf9ac29-c3d4-4844-a3ab-65776a0259cf",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "AUS",
+  "teamB": "WSM",
+  "location": "Field 9"
+  },
+  {
+  "id": "a93db0d0-5df9-4047-a6d0-b6c2359455e9",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Men's 30",
+  "round": "3",
+  "teamA": "SGP",
+  "teamB": "JPN",
+  "location": "Field 10"
+  },
+  {
+  "id": "8302b3b0-2560-424b-9257-5e0685e6ecca",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Men's 30",
+  "round": "3",
+  "teamA": "AUS",
+  "teamB": "FRA",
+  "location": "Field 11"
+  },
+  {
+  "id": "eecef6a4-c91b-42c0-aa00-a66277a7d1e8",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "IRL",
+  "teamB": "NZL",
+  "location": "Field 12"
+  },
+  {
+  "id": "d40ce5de-65d5-4838-8455-9e2686deefa2",
+  "scheduledStartTime": "2019-05-01T01:40:00Z",
+  "scheduledEndTime": "2019-05-01T02:30:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "WAL",
+  "teamB": "PNG",
+  "location": "Field 13"
+  },
+  {
+  "id": "67e85ad0-cf56-4636-b908-72f628fd1835",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "CHN",
+  "teamB": "JPN",
+  "location": "Field 2"
+  },
+  {
+  "id": "24b5201a-6d9c-4b69-839f-396015059c6a",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "JPN",
+  "teamB": "WSM",
+  "location": "Field 3"
+  },
+  {
+  "id": "f73b4a06-7a1f-4a15-af58-c666bdb74465",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "SCO",
+  "teamB": "ZAF",
+  "location": "Field 5"
+  },
+  {
+  "id": "072a44ff-f4d7-439b-9848-524c4c9672d3",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Men's 30",
+  "round": "3",
+  "teamA": "ZAF",
+  "teamB": "FJI",
+  "location": "Field 6"
+  },
+  {
+  "id": "54ebba6e-b20a-4cf1-9490-502c89eb807d",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "ZAF",
+  "teamB": "ENG",
+  "location": "Field 7"
+  },
+  {
+  "id": "cd47d84c-a0e5-425c-ab7c-427c251fd671",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "4",
+  "teamA": "FJI",
+  "teamB": "SCO",
+  "location": "Field 8"
+  },
+  {
+  "id": "e9a26736-82c7-45b5-a5b5-6a69587b8dd5",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "FJI",
+  "teamB": "SGP",
+  "location": "Field 9"
+  },
+  {
+  "id": "9c3a13ad-04c6-40be-be84-48ab9693d2bd",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Men's 30",
+  "round": "3",
+  "teamA": "USA",
+  "teamB": "ENG",
+  "location": "Field 10"
+  },
+  {
+  "id": "9136e422-0919-49d2-a688-e1688c5e78f4",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Men's 40",
+  "round": "7",
+  "teamA": "AUS",
+  "teamB": "FRA",
+  "location": "Field 12"
+  },
+  {
+  "id": "ca39fb36-3e40-4b9c-901f-a8a091ab58fa",
+  "scheduledStartTime": "2019-05-01T02:30:00Z",
+  "scheduledEndTime": "2019-05-01T03:20:00Z",
+  "comp": "Women's 35",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "NZL",
+  "location": "Field 13"
+  },
+  {
+  "id": "f7e20d80-e31c-4399-bbfe-68b880c6a98b",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "ZAF",
+  "teamB": "DEU",
+  "location": "Field 1"
+  },
+  {
+  "id": "2825d8c5-f1b7-4259-a0f2-c6cb0f0f7ab1",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Men's Open",
+  "round": "4",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 3"
+  },
+  {
+  "id": "7404bd9a-1ec4-4751-802c-f45e9a42fa35",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "SGP",
+  "teamB": "CHN",
+  "location": "Field 5"
+  },
+  {
+  "id": "654c0995-7ea9-4aa9-9ea5-df4946d08cd6",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "WAL",
+  "teamB": "PNG",
+  "location": "Field 6"
+  },
+  {
+  "id": "ddd0fbf7-6923-47e5-ad31-0635bc432f03",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "FRA",
+  "teamB": "AUS",
+  "location": "Field 7"
+  },
+  {
+  "id": "49ac69fc-f2bc-4efc-8e83-787045e6b440",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "CHL",
+  "teamB": "ENG",
+  "location": "Field 8"
+  },
+  {
+  "id": "18fe9fe3-29e8-4d7f-bd11-fd01ce01db8f",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Men's 40",
+  "round": "7",
+  "teamA": "ITA",
+  "teamB": "WAL",
+  "location": "Field 9"
+  },
+  {
+  "id": "a6ede53c-0a30-4b70-908d-b773583df455",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Men's 40",
+  "round": "8",
+  "teamA": "NZL",
+  "teamB": "USA",
+  "location": "Field 10"
+  },
+  {
+  "id": "15dfa483-ad42-4f18-80b4-d9fb6a41ed9a",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Men's 40",
+  "round": "8",
+  "teamA": "MYS",
+  "teamB": "JPN",
+  "location": "Field 11"
+  },
+  {
+  "id": "c2c0ac84-f494-45d2-a19e-0ca0450b837a",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Women's 27",
+  "round": "5",
+  "teamA": "USA",
+  "teamB": "ENG",
+  "location": "Field 12"
+  },
+  {
+  "id": "f06861bf-1cdf-43e7-859b-3204ffb042b8",
+  "scheduledStartTime": "2019-05-01T03:20:00Z",
+  "scheduledEndTime": "2019-05-01T04:10:00Z",
+  "comp": "Women's 27",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "NZL",
+  "location": "Field 13"
+  },
+  {
+  "id": "dbf4d0f8-3ebc-4b14-959f-5ecb8204080f",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "8",
+  "teamA": "AUS",
+  "teamB": "IRL",
+  "location": "Field 2"
+  },
+  {
+  "id": "14337834-55b1-4115-8d47-b0a7a4bef527",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "FJI",
+  "teamB": "MYS",
+  "location": "Field 4"
+  },
+  {
+  "id": "01411c6f-fb2e-48ee-ad4b-4268889ec836",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "JPN",
+  "teamB": "NZL",
+  "location": "Field 5"
+  },
+  {
+  "id": "003b793c-9f09-4f7f-8202-e9e06f014f81",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "ARE",
+  "teamB": "ITA",
+  "location": "Field 6"
+  },
+  {
+  "id": "1a11e297-76ef-4327-9346-29771850c684",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "8",
+  "teamA": "NZL",
+  "teamB": "ENG",
+  "location": "Field 7"
+  },
+  {
+  "id": "252ea7eb-0aad-4f70-a93a-839ee7894c0f",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "8",
+  "teamA": "SCO",
+  "teamB": "SGP",
+  "location": "Field 8"
+  },
+  {
+  "id": "fca7fa66-9e05-4251-83cf-869a391d0c61",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "HKG",
+  "teamB": "USA",
+  "location": "Field 9"
+  },
+  {
+  "id": "d2a22474-a4cd-41f2-b4b6-9ae335b246f5",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "8",
+  "teamA": "IRL",
+  "teamB": "TPE",
+  "location": "Field 10"
+  },
+  {
+  "id": "8f8249c4-689b-4094-b249-e5b2b13834b6",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "8",
+  "teamA": "ENG",
+  "teamB": "IRL",
+  "location": "Field 11"
+  },
+  {
+  "id": "5865cfb3-f5cd-45fa-a97b-1eaad61ea69e",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Women's 27",
+  "round": "5",
+  "teamA": "ZAF",
+  "teamB": "FRA",
+  "location": "Field 12"
+  },
+  {
+  "id": "39bb53b4-4649-4502-a78a-d0a8ad85a5e2",
+  "scheduledStartTime": "2019-05-01T04:10:00Z",
+  "scheduledEndTime": "2019-05-01T05:00:00Z",
+  "comp": "Men's 40",
+  "round": "7",
+  "teamA": "BEL",
+  "teamB": "ARE",
+  "location": "Field 13"
+  },
+  {
+  "id": "0bb790cd-7f0e-4f2e-bff4-5eab6c65ef88",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "MYS",
+  "teamB": "WAL",
+  "location": "Field 1"
+  },
+  {
+  "id": "4bfc0ae2-263e-42f4-be72-d14104891981",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "NLD",
+  "teamB": "FRA",
+  "location": "Field 3"
+  },
+  {
+  "id": "da527c27-cfb2-471c-8449-6a0cf06ed1e7",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "PHL",
+  "teamB": "IRL",
+  "location": "Field 4"
+  },
+  {
+  "id": "320f7dd1-0151-4681-9406-8bc23e3e8de4",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "NZL",
+  "teamB": "SGP",
+  "location": "Field 5"
+  },
+  {
+  "id": "053d3b30-6ae3-47cd-8196-c8e6b7910842",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Mixed 30",
+  "round": "8",
+  "teamA": "COK",
+  "teamB": "ARE",
+  "location": "Field 7"
+  },
+  {
+  "id": "59f47aec-b0f8-4d45-8912-39cc785eef6e",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Mixed 30",
+  "round": "8",
+  "teamA": "ZAF",
+  "teamB": "FRA",
+  "location": "Field 9"
+  },
+  {
+  "id": "dae1a2a7-4ca2-4c0e-b59a-4c149da54a07",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Men's 35",
+  "round": "3",
+  "teamA": "NZL",
+  "teamB": "FJI",
+  "location": "Field 10"
+  },
+  {
+  "id": "6b432829-db0a-4e60-8c73-de5328b6db03",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Men's 35",
+  "round": "3",
+  "teamA": "USA",
+  "teamB": "AUS",
+  "location": "Field 11"
+  },
+  {
+  "id": "e090ba13-4eda-4e4d-86f7-41304bdd264e",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "NZL",
+  "teamB": "PNG",
+  "location": "Field 12"
+  },
+  {
+  "id": "3cfb75c1-c074-46a4-a4a4-183d0df1e490",
+  "scheduledStartTime": "2019-05-01T05:05:00Z",
+  "scheduledEndTime": "2019-05-01T05:55:00Z",
+  "comp": "Men's 35",
+  "round": "3",
+  "teamA": "COK",
+  "teamB": "ENG",
+  "location": "Field 13"
+  },
+  {
+  "id": "a7e7d53e-98cc-4fc4-a001-cadba5845cc1",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "USA",
+  "teamB": "WAL",
+  "location": "Field 2"
+  },
+  {
+  "id": "ed72fc70-be4f-48ff-8956-dd7e751ef344",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "FJI",
+  "teamB": "ZAF",
+  "location": "Field 3"
+  },
+  {
+  "id": "b4b7adfa-233b-4631-8033-df05cb84532c",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "NLD",
+  "teamB": "PNG",
+  "location": "Field 4"
+  },
+  {
+  "id": "21ead9ca-fb06-43d0-8080-f0b25a497c48",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "PHL",
+  "teamB": "FRA",
+  "location": "Field 5"
+  },
+  {
+  "id": "96d1c9fe-36fa-4c29-a412-8962485b263d",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "CHN",
+  "teamB": "ENG",
+  "location": "Field 6"
+  },
+  {
+  "id": "244b827a-129d-418b-a868-8ccc9765d0a2",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "WSM",
+  "teamB": "SCO",
+  "location": "Field 8"
+  },
+  {
+  "id": "c2cdc555-fe6f-469f-960a-d572ebc7b44f",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "JPN",
+  "location": "Field 9"
+  },
+  {
+  "id": "332d3d5f-5b42-4202-8a62-a251a732b986",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Men's 45",
+  "round": "3",
+  "teamA": "WAL",
+  "teamB": "NZL",
+  "location": "Field 10"
+  },
+  {
+  "id": "7212ba5a-b1f3-4a7e-8086-6474f4ba4116",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Men's 45",
+  "round": "3",
+  "teamA": "AUS",
+  "teamB": "FJI",
+  "location": "Field 11"
+  },
+  {
+  "id": "1e19ed10-c076-48e9-adc6-cef7bb14cf87",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Men's 45",
+  "round": "3",
+  "teamA": "ENG",
+  "teamB": "ZAF",
+  "location": "Field 12"
+  },
+  {
+  "id": "2faea91e-a2a2-4a12-9e51-1c35facc5448",
+  "scheduledStartTime": "2019-05-01T06:00:00Z",
+  "scheduledEndTime": "2019-05-01T06:50:00Z",
+  "comp": "Women's 35",
+  "round": "6",
+  "teamA": "NZL",
+  "teamB": "EUR",
+  "location": "Field 13"
+  },
+  {
+  "id": "947ac532-176e-406e-9359-a881a3604e3f",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "JPN",
+  "teamB": "SCO",
+  "location": "Field 1"
+  },
+  {
+  "id": "7d68521a-dafa-4581-bea6-823a1d71bf5a",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "WSM",
+  "teamB": "ENG",
+  "location": "Field 4"
+  },
+  {
+  "id": "a346eb45-f2c8-41c5-8335-5e42d4959ead",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "FJI",
+  "location": "Field 5"
+  },
+  {
+  "id": "84a0d3a6-3bf0-4da6-ba7f-ad335a4009b7",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Men's 30",
+  "round": "4",
+  "teamA": "SGP",
+  "teamB": "ENG",
+  "location": "Field 6"
+  },
+  {
+  "id": "f47c060d-7c5f-4d87-9843-059140c0e3d0",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Men's 30",
+  "round": "4",
+  "teamA": "FRA",
+  "teamB": "FJI",
+  "location": "Field 10"
+  },
+  {
+  "id": "485f070a-926c-43f9-9073-f58651cd4ee5",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Men's 40",
+  "round": "9",
+  "teamA": "NZL",
+  "teamB": "SGP",
+  "location": "Field 11"
+  },
+  {
+  "id": "a5075f73-91bd-444f-83be-b1208a8e8af2",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Women's 27",
+  "round": "6",
+  "teamA": "NZL",
+  "teamB": "SGP",
+  "location": "Field 12"
+  },
+  {
+  "id": "055765b8-9ac0-48a5-96ac-93b3467bd9cf",
+  "scheduledStartTime": "2019-05-01T06:55:00Z",
+  "scheduledEndTime": "2019-05-01T07:45:00Z",
+  "comp": "Women's 35",
+  "round": "6",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 13"
+  },
+  {
+  "id": "13417eb9-d3f5-431d-9d5a-a71ea9fd42a6",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "AUS",
+  "teamB": "CHL",
+  "location": "Field 2"
+  },
+  {
+  "id": "c2c6e606-64c6-4aa6-b5d2-0d5223ebe6ee",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "PNG",
+  "teamB": "WSM",
+  "location": "Field 4"
+  },
+  {
+  "id": "750666ff-0cd5-4dfb-9ee0-b639c2f9550a",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Men's 40",
+  "round": "8",
+  "teamA": "ITA",
+  "teamB": "BEL",
+  "location": "Field 5"
+  },
+  {
+  "id": "9cc87d0b-0310-4882-9ad2-3ecda4fa6856",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "NZL",
+  "teamB": "WAL",
+  "location": "Field 6"
+  },
+  {
+  "id": "b09bb090-36c9-49e1-bd19-a53df29b6005",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "DEU",
+  "teamB": "FRA",
+  "location": "Field 7"
+  },
+  {
+  "id": "49976d6e-2f38-4f0b-b984-cf479b545121",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Mixed 30",
+  "round": "9",
+  "teamA": "ENG",
+  "teamB": "CHL",
+  "location": "Field 8"
+  },
+  {
+  "id": "036157a5-0d39-42a0-b750-32aedcf7c4f7",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Men's Open",
+  "round": "5",
+  "teamA": "SGP",
+  "teamB": "ZAF",
+  "location": "Field 9"
+  },
+  {
+  "id": "d007942f-0a78-4975-b668-38a0d37208c0",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Men's 30",
+  "round": "4",
+  "teamA": "ZAF",
+  "teamB": "USA",
+  "location": "Field 10"
+  },
+  {
+  "id": "3404f527-348b-4f04-bb8d-cd9fb030e4d7",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "ITA",
+  "teamB": "ZAF",
+  "location": "Field 11"
+  },
+  {
+  "id": "a8ce061f-1209-42bd-9dd0-1a6b1a8a84ec",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Men's 30",
+  "round": "4",
+  "teamA": "AUS",
+  "teamB": "JPN",
+  "location": "Field 12"
+  },
+  {
+  "id": "30c7db1d-a747-4dfc-a3c8-c7ce7d481445",
+  "scheduledStartTime": "2019-05-01T07:50:00Z",
+  "scheduledEndTime": "2019-05-01T08:40:00Z",
+  "comp": "Men's 40",
+  "round": "8",
+  "teamA": "FRA",
+  "teamB": "ARE",
+  "location": "Field 13"
+  },
+  {
+  "id": "d7f07200-79d4-452a-b1fa-9f9eba783023",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "ENG",
+  "teamB": "SCO",
+  "location": "Field 1"
+  },
+  {
+  "id": "e86c9838-48fb-4781-9c64-1def249ece58",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "TPE",
+  "teamB": "JPN",
+  "location": "Field 3"
+  },
+  {
+  "id": "f87baae2-861b-4575-917d-a5f41e7dde47",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "CHN",
+  "teamB": "IRL",
+  "location": "Field 4"
+  },
+  {
+  "id": "90a77fbb-c75a-4324-91ff-497b44e888b1",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "MYS",
+  "teamB": "SGP",
+  "location": "Field 5"
+  },
+  {
+  "id": "55ebac7b-afaa-4cc5-90fa-33b4ca423b44",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Mixed Open",
+  "round": "9",
+  "teamA": "USA",
+  "teamB": "ARE",
+  "location": "Field 7"
+  },
+  {
+  "id": "db567a13-b415-4bf4-b4c9-3a3d0fb1bceb",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Women's Open",
+  "round": "6",
+  "teamA": "WAL",
+  "teamB": "USA",
+  "location": "Field 8"
+  },
+  {
+  "id": "871d37c4-d41d-4113-acdc-c582141ea8cd",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Men's Open",
+  "round": "6",
+  "teamA": "FRA",
+  "teamB": "COK",
+  "location": "Field 9"
+  },
+  {
+  "id": "432d4457-a8f0-4b38-82c5-51440e70e056",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Men's 50",
+  "round": "5",
+  "teamA": "JPN",
+  "teamB": "GBR",
+  "location": "Field 10"
+  },
+  {
+  "id": "648cd0ef-5473-40c3-8ef9-605490537f41",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Men's 50",
+  "round": "5",
+  "teamA": "NZL",
+  "teamB": "SGP",
+  "location": "Field 11"
+  },
+  {
+  "id": "db91ea16-1355-44ca-8983-329d33330e4e",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Men's 40",
+  "round": "8",
+  "teamA": "AUS",
+  "teamB": "WAL",
+  "location": "Field 12"
+  },
+  {
+  "id": "df3bc072-e58e-46ff-a3bf-4859141d09e3",
+  "scheduledStartTime": "2019-05-01T08:45:00Z",
+  "scheduledEndTime": "2019-05-01T09:35:00Z",
+  "comp": "Men's 50",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "IRL",
+  "location": "Field 13"
+  },
+  {
+  "id": "276bdb78-54d5-4a7e-9c47-74c581864287",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Women's Open",
+  "round": "7",
+  "teamA": "SGP",
+  "teamB": "NLD",
+  "location": "Field 2"
+  },
+  {
+  "id": "d0888c6e-720b-402b-af50-c566e42eb6d5",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "10",
+  "teamA": "SGP",
+  "teamB": "FJI",
+  "location": "Field 3"
+  },
+  {
+  "id": "fc7505d6-df75-4380-a9ec-a0f8e72841a9",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "10",
+  "teamA": "IRL",
+  "teamB": "MYS",
+  "location": "Field 4"
+  },
+  {
+  "id": "8bdbfb22-3749-475c-92ae-615e4e742d7a",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "10",
+  "teamA": "ENG",
+  "teamB": "USA",
+  "location": "Field 6"
+  },
+  {
+  "id": "ec5ecfc8-7c7c-4d38-a7c2-8c1276f69183",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "10",
+  "teamA": "WSM",
+  "teamB": "NZL",
+  "location": "Field 8"
+  },
+  {
+  "id": "ba1c3f7e-78b0-4dc7-8d1e-7e686f13c637",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Men's 45",
+  "round": "4",
+  "teamA": "FJI",
+  "teamB": "WAL",
+  "location": "Field 9"
+  },
+  {
+  "id": "4a9518cd-e509-4042-b7ec-0c520bdcef8c",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Men's 45",
+  "round": "4",
+  "teamA": "ENG",
+  "teamB": "AUS",
+  "location": "Field 10"
+  },
+  {
+  "id": "744719b5-d818-4f47-8c6f-ad7a7913a490",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Men's 45",
+  "round": "4",
+  "teamA": "NZL",
+  "teamB": "ZAF",
+  "location": "Field 11"
+  },
+  {
+  "id": "07c015dd-afa7-4aae-9848-715cd6e9d96c",
+  "scheduledStartTime": "2019-05-02T00:00:00Z",
+  "scheduledEndTime": "2019-05-02T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "12",
+  "teamA": "NZL",
+  "teamB": "COK",
+  "location": "Field 12"
+  },
+  {
+  "id": "77c0c4e3-7284-4b3e-878c-13a396145374",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Women's 27",
+  "round": "9",
+  "teamA": "AUS",
+  "teamB": "ZAF",
+  "location": "Field 2"
+  },
+  {
+  "id": "1c9039d1-7d07-4698-8b15-5e4cec4765af",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "10",
+  "teamA": "WAL",
+  "teamB": "TPE",
+  "location": "Field 3"
+  },
+  {
+  "id": "b9c278f8-854a-457c-bbe1-f2f5f5008a79",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "10",
+  "teamA": "JPN",
+  "teamB": "CHN",
+  "location": "Field 4"
+  },
+  {
+  "id": "99467357-7d15-41b1-b26c-bb3eb58b6d35",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "IRL",
+  "teamB": "USA",
+  "location": "Field 5"
+  },
+  {
+  "id": "d6c552d4-99fb-497e-a90c-4ebd0d44517f",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "WAL",
+  "teamB": "NLD",
+  "location": "Field 6"
+  },
+  {
+  "id": "51b8e9b8-b580-4d56-b0a2-c2dab957ceb8",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "FRA",
+  "teamB": "NZL",
+  "location": "Field 12"
+  },
+  {
+  "id": "52fe42bc-63f3-413f-9eec-945538dc2f72",
+  "scheduledStartTime": "2019-05-02T00:50:00Z",
+  "scheduledEndTime": "2019-05-02T01:40:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "COK",
+  "teamB": "PHL",
+  "location": "Field 13"
+  },
+  {
+  "id": "3fb458b1-cadf-4330-8466-5263595f69c1",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "AUS",
+  "teamB": "ZAF",
+  "location": "Field 2"
+  },
+  {
+  "id": "10157604-7607-4e56-8314-9f05fa925d6f",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "8",
+  "teamA": "NZL",
+  "teamB": "FRA",
+  "location": "Field 3"
+  },
+  {
+  "id": "5b760643-d9e2-4661-9113-a33c37f9ba90",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "8",
+  "teamA": "PHL",
+  "teamB": "USA",
+  "location": "Field 4"
+  },
+  {
+  "id": "a612cd1f-f4a7-4b79-a84d-3c19268c1fa1",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "WSM",
+  "teamB": "SGP",
+  "location": "Field 5"
+  },
+  {
+  "id": "d1890de3-2e12-455b-add1-c1360bf5a002",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Men's 35",
+  "round": "4",
+  "teamA": "COK",
+  "teamB": "USA",
+  "location": "Field 6"
+  },
+  {
+  "id": "350d8e6c-6f93-4f04-b0e5-3711914ada3e",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "ITA",
+  "teamB": "HKG",
+  "location": "Field 7"
+  },
+  {
+  "id": "ac8abb58-0ad5-4a77-a84d-e831bef5768d",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Men's 30",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "FJI",
+  "location": "Field 9"
+  },
+  {
+  "id": "a2d95f5a-0db2-4532-b18b-ee2cac170e6b",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Men's 30",
+  "round": "5",
+  "teamA": "SGP",
+  "teamB": "ZAF",
+  "location": "Field 10"
+  },
+  {
+  "id": "07f6c685-53c9-47e7-a775-2fa1a0410b4a",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Men's 35",
+  "round": "4",
+  "teamA": "NZL",
+  "teamB": "ENG",
+  "location": "Field 11"
+  },
+  {
+  "id": "612e2d72-1805-4e40-a41a-0c915c3708e3",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Men's 35",
+  "round": "4",
+  "teamA": "FJI",
+  "teamB": "AUS",
+  "location": "Field 12"
+  },
+  {
+  "id": "70948bc6-359e-434d-a987-f89e035eb97b",
+  "scheduledStartTime": "2019-05-02T02:30:00Z",
+  "scheduledEndTime": "2019-05-02T03:20:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "DEU",
+  "teamB": "ARE",
+  "location": "Field 13"
+  },
+  {
+  "id": "aa8a5725-d31c-4840-9c2b-6ad670581654",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Mixed 30",
+  "round": "10",
+  "teamA": "IRL",
+  "teamB": "ZAF",
+  "location": "Field 2"
+  },
+  {
+  "id": "b962c710-0cae-4551-8951-a43e67716716",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "8",
+  "teamA": "SGP",
+  "teamB": "WAL",
+  "location": "Field 3"
+  },
+  {
+  "id": "c491bb78-f03a-4fd1-b74d-7edae07772bd",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "8",
+  "teamA": "MYS",
+  "teamB": "PNG",
+  "location": "Field 4"
+  },
+  {
+  "id": "24604770-7eb5-4ecc-bda1-6a61a08326ec",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "AUS",
+  "teamB": "SCO",
+  "location": "Field 5"
+  },
+  {
+  "id": "ab24c2f1-49d7-4f2c-bbb3-2fe5da6bb55d",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "SCO",
+  "teamB": "CHL",
+  "location": "Field 6"
+  },
+  {
+  "id": "f4346ca9-28d6-4818-a7d4-9c2d98b62c56",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "ENG",
+  "teamB": "FRA",
+  "location": "Field 7"
+  },
+  {
+  "id": "a30f9482-51fc-4ce0-b4e5-f38b787c0885",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Men's 30",
+  "round": "5",
+  "teamA": "JPN",
+  "teamB": "ENG",
+  "location": "Field 10"
+  },
+  {
+  "id": "aab14718-6c97-4629-9d15-394174474f9a",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Men's 30",
+  "round": "5",
+  "teamA": "FRA",
+  "teamB": "USA",
+  "location": "Field 11"
+  },
+  {
+  "id": "c42d35db-9639-4404-8010-fe35d160d84a",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Mixed 30",
+  "round": "10",
+  "teamA": "ENG",
+  "teamB": "AUS",
+  "location": "Field 12"
+  },
+  {
+  "id": "519fd3df-af05-42c8-af20-3dd2408b2a71",
+  "scheduledStartTime": "2019-05-02T03:20:00Z",
+  "scheduledEndTime": "2019-05-02T04:10:00Z",
+  "comp": "Mixed 30",
+  "round": "10",
+  "teamA": "ARE",
+  "teamB": "CHL",
+  "location": "Field 13"
+  },
+  {
+  "id": "4326bdae-0c25-44fe-8c37-f7d365df1e2d",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Women's 27",
+  "round": "7",
+  "teamA": "ENG",
+  "teamB": "ZAF",
+  "location": "Field 1"
+  },
+  {
+  "id": "60ac5bc3-f67c-42f6-b0b5-2c8a903a3541",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "WSM",
+  "teamB": "WAL",
+  "location": "Field 3"
+  },
+  {
+  "id": "93939272-7fc3-4211-bf46-7505a6b5d136",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "PNG",
+  "teamB": "JPN",
+  "location": "Field 4"
+  },
+  {
+  "id": "bb50bf88-5cd8-45dc-a7f2-417f1045540c",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "FJI",
+  "teamB": "ENG",
+  "location": "Field 5"
+  },
+  {
+  "id": "84e557c8-810a-49f5-b779-fcb4000dbb3a",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Men's Open",
+  "round": "7",
+  "teamA": "JPN",
+  "teamB": "ZAF",
+  "location": "Field 6"
+  },
+  {
+  "id": "aab49c63-3b66-4970-9191-11c6445f9e7e",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "CHN",
+  "teamB": "FJI",
+  "location": "Field 7"
+  },
+  {
+  "id": "f7e98bb7-4d7f-46ff-b59e-3f40ee0b1364",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "10",
+  "teamA": "SGP",
+  "teamB": "COK",
+  "location": "Field 8"
+  },
+  {
+  "id": "17f571e8-a58f-41cc-b7c4-5b97ccaf4047",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Men's 45",
+  "round": "5",
+  "teamA": "ENG",
+  "teamB": "WAL",
+  "location": "Field 10"
+  },
+  {
+  "id": "bfc5980c-514f-4b93-8ff4-5170e484f85f",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Men's 45",
+  "round": "5",
+  "teamA": "FJI",
+  "teamB": "NZL",
+  "location": "Field 11"
+  },
+  {
+  "id": "d90309f4-b70d-4041-9d55-e52359432b3a",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Men's 45",
+  "round": "5",
+  "teamA": "AUS",
+  "teamB": "ZAF",
+  "location": "Field 12"
+  },
+  {
+  "id": "e2b0c8b9-9991-43ec-bbf2-9e621181a30f",
+  "scheduledStartTime": "2019-05-02T04:10:00Z",
+  "scheduledEndTime": "2019-05-02T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "10",
+  "teamA": "FRA",
+  "teamB": "SCO",
+  "location": "Field 13"
+  },
+  {
+  "id": "96e0eee6-3db8-48f4-83f9-e780e9c35d50",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Women's 27",
+  "round": "7",
+  "teamA": "FRA",
+  "teamB": "SGP",
+  "location": "Field 2"
+  },
+  {
+  "id": "a85c6696-6a34-4c80-bf7e-608d3959a3cb",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "TPE",
+  "teamB": "SGP",
+  "location": "Field 3"
+  },
+  {
+  "id": "fdca59a1-eda9-46eb-949b-bf074e8088f7",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "11",
+  "teamA": "NZL",
+  "teamB": "IRL",
+  "location": "Field 4"
+  },
+  {
+  "id": "b64c4679-2665-42cc-89a8-6cec4a234498",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Women's 27",
+  "round": "7",
+  "teamA": "NZL",
+  "teamB": "USA",
+  "location": "Field 5"
+  },
+  {
+  "id": "155f6c8d-bc95-4b1d-8b17-3ce43263b8a4",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "8",
+  "teamA": "NLD",
+  "teamB": "IRL",
+  "location": "Field 6"
+  },
+  {
+  "id": "f85dfd97-f38a-4836-9c76-f1b06d1f95d4",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "8",
+  "teamA": "NZL",
+  "teamB": "WAL",
+  "location": "Field 7"
+  },
+  {
+  "id": "cb0ca4c3-eb00-4757-a265-90ab7e4dc9f0",
+  "scheduledStartTime": "2019-05-02T05:05:00Z",
+  "scheduledEndTime": "2019-05-02T05:55:00Z",
+  "comp": "Men's Open",
+  "round": "8",
+  "teamA": "PNG",
+  "teamB": "FRA",
+  "location": "Field 8"
+  },
+  {
+  "id": "acf417b3-8aea-44c3-bb9c-b89de186f162",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "7",
+  "teamA": "JPN",
+  "teamB": "ENG",
+  "location": "Field 1"
+  },
+  {
+  "id": "1206cf58-f4b4-4716-928f-c0c5237dd67e",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "8",
+  "teamA": "USA",
+  "teamB": "COK",
+  "location": "Field 6"
+  },
+  {
+  "id": "2631842d-11e3-45ed-9c88-d377ed2c3b46",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "7",
+  "teamA": "AUS",
+  "teamB": "SCO",
+  "location": "Field 7"
+  },
+  {
+  "id": "81170dc0-7c41-434e-92a5-b1fcd165e8c5",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Men's 35",
+  "round": "5",
+  "teamA": "NZL",
+  "teamB": "AUS",
+  "location": "Field 8"
+  },
+  {
+  "id": "8b4e4557-0306-482b-b0d9-f67fdbe0200f",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "7",
+  "teamA": "WSM",
+  "teamB": "ZAF",
+  "location": "Field 9"
+  },
+  {
+  "id": "54ed5701-b367-4290-aed1-d4f75a2d94a8",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "7",
+  "teamA": "CHN",
+  "teamB": "FJI",
+  "location": "Field 10"
+  },
+  {
+  "id": "da09ec40-9b1f-4a31-a07c-3147c2029c6e",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Men's 35",
+  "round": "5",
+  "teamA": "FJI",
+  "teamB": "COK",
+  "location": "Field 12"
+  },
+  {
+  "id": "2a6c2ab8-bbe7-464d-a4f6-6e3b13be3f35",
+  "scheduledStartTime": "2019-05-02T06:00:00Z",
+  "scheduledEndTime": "2019-05-02T06:50:00Z",
+  "comp": "Men's 35",
+  "round": "5",
+  "teamA": "ENG",
+  "teamB": "USA",
+  "location": "Field 13"
+  },
+  {
+  "id": "d563bb71-8439-4ea6-918f-2a880036ee04",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "9",
+  "teamA": "PNG",
+  "teamB": "PHL",
+  "location": "Field 2"
+  },
+  {
+  "id": "7f3a784a-5e2d-4fdc-82aa-fdfdad9ad219",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "9",
+  "teamA": "FRA",
+  "teamB": "MYS",
+  "location": "Field 5"
+  },
+  {
+  "id": "af7638c3-ec4a-4dac-8067-6f8a3f6c882b",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "9",
+  "teamA": "WAL",
+  "teamB": "NZL",
+  "location": "Field 6"
+  },
+  {
+  "id": "73dbe4f6-f9b3-4fef-9f50-667162f40fa1",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Mixed Open",
+  "round": "12",
+  "teamA": "ZAF",
+  "teamB": "USA",
+  "location": "Field 7"
+  },
+  {
+  "id": "dcab5092-0180-418d-88b2-e0ed0acc1307",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Men's 30",
+  "round": "6",
+  "teamA": "FRA",
+  "teamB": "SGP",
+  "location": "Field 9"
+  },
+  {
+  "id": "898ec27a-ee5b-4a27-959c-e43c7d4148ae",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Men's 30",
+  "round": "6",
+  "teamA": "JPN",
+  "teamB": "ZAF",
+  "location": "Field 10"
+  },
+  {
+  "id": "0b4def29-aaa4-4ed1-93f8-517901696f64",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Men's 30",
+  "round": "6",
+  "teamA": "FJI",
+  "teamB": "USA",
+  "location": "Field 11"
+  },
+  {
+  "id": "a74b6535-e125-462d-8d2e-267c39786830",
+  "scheduledStartTime": "2019-05-02T07:10:00Z",
+  "scheduledEndTime": "2019-05-02T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "9",
+  "teamA": "USA",
+  "teamB": "NLD",
+  "location": "Field 13"
+  },
+  {
+  "id": "14e9f8b4-d433-437a-9aef-ac334d845c26",
+  "scheduledStartTime": "2019-05-02T08:20:00Z",
+  "scheduledEndTime": "2019-05-02T09:10:00Z",
+  "comp": "Men's 30",
+  "round": "6",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 7"
+  },
+  {
+  "id": "e217d60c-2c93-4258-aa17-2afc6944d588",
+  "scheduledStartTime": "2019-05-02T08:20:00Z",
+  "scheduledEndTime": "2019-05-02T09:10:00Z",
+  "comp": "Mixed Open",
+  "round": "12",
+  "teamA": "PNG",
+  "teamB": "MYS",
+  "location": "Field 9"
+  },
+  {
+  "id": "b7734ed8-d325-41d7-84ff-9431a2d669f3",
+  "scheduledStartTime": "2019-05-02T08:20:00Z",
+  "scheduledEndTime": "2019-05-02T09:10:00Z",
+  "comp": "Mixed 30",
+  "round": "11",
+  "teamA": "ZAF",
+  "teamB": "ARE",
+  "location": "Field 10"
+  },
+  {
+  "id": "733f5e1b-c3de-4b0b-bf34-d3e7881c928a",
+  "scheduledStartTime": "2019-05-02T08:20:00Z",
+  "scheduledEndTime": "2019-05-02T09:10:00Z",
+  "comp": "Mixed 30",
+  "round": "11",
+  "teamA": "SCO",
+  "teamB": "CHL",
+  "location": "Field 11"
+  },
+  {
+  "id": "b09f4fad-d3e8-4e72-9499-9e8f3daee7c2",
+  "scheduledStartTime": "2019-05-02T08:20:00Z",
+  "scheduledEndTime": "2019-05-02T09:10:00Z",
+  "comp": "Mixed 30",
+  "round": "11",
+  "teamA": "NZL",
+  "teamB": "FRA",
+  "location": "Field 12"
+  },
+  {
+  "id": "fd1a8cfe-cfa7-4c88-9f3d-c8c9d5519527",
+  "scheduledStartTime": "2019-05-02T08:20:00Z",
+  "scheduledEndTime": "2019-05-02T09:10:00Z",
+  "comp": "Women's 27",
+  "round": "8",
+  "teamA": "USA",
+  "teamB": "SGP",
+  "location": "Field 13"
+  },
+  {
+  "id": "459cdb7c-187f-41e8-ad8f-a9a8b66465ec",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Mixed Open",
+  "round": "12",
+  "teamA": "SCO",
+  "teamB": "AUS",
+  "location": "Field 4"
+  },
+  {
+  "id": "731b210a-655a-4302-8546-894c11db524b",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Mixed Open",
+  "round": "12",
+  "teamA": "ARE",
+  "teamB": "HKG",
+  "location": "Field 5"
+  },
+  {
+  "id": "7e5001a6-0278-433c-9b55-9ae614c7dfe6",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Mixed 30",
+  "round": "11",
+  "teamA": "ENG",
+  "teamB": "IRL",
+  "location": "Field 6"
+  },
+  {
+  "id": "3112e519-ea41-4d58-ac4d-596af4f1d6ef",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Mixed Open",
+  "round": "12",
+  "teamA": "FRA",
+  "teamB": "ITA",
+  "location": "Field 7"
+  },
+  {
+  "id": "b7176d7b-825d-44a4-833e-53e814d96c06",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Mixed Open",
+  "round": "12",
+  "teamA": "CHL",
+  "teamB": "DEU",
+  "location": "Field 8"
+  },
+  {
+  "id": "52323f57-903c-450c-8568-85e91375821c",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Mixed 30",
+  "round": "11",
+  "teamA": "AUS",
+  "teamB": "SGP",
+  "location": "Field 10"
+  },
+  {
+  "id": "9aa1951d-1d03-4646-9478-e77be3b1dfc2",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Men's Open",
+  "round": "9",
+  "teamA": "PNG",
+  "teamB": "PHL",
+  "location": "Field 11"
+  },
+  {
+  "id": "34b23625-9ba5-4d88-b74a-498265643e3d",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Women's 27",
+  "round": "8",
+  "teamA": "NZL",
+  "teamB": "ENG",
+  "location": "Field 12"
+  },
+  {
+  "id": "8a5b651f-9849-4ead-abf3-9ffb2c14725d",
+  "scheduledStartTime": "2019-05-02T09:30:00Z",
+  "scheduledEndTime": "2019-05-02T10:20:00Z",
+  "comp": "Women's 27",
+  "round": "8",
+  "teamA": "AUS",
+  "teamB": "FRA",
+  "location": "Field 13"
+  },
+  {
+  "id": "40b0cd6d-cbcb-431e-84b4-48b98d7bc195",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "13",
+  "teamA": "NZL",
+  "teamB": "ZAF",
+  "location": "Field 2"
+  },
+  {
+  "id": "3f888be7-706d-441d-9244-b715f6027ea4",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "13",
+  "teamA": "FRA",
+  "teamB": "CHL",
+  "location": "Field 3"
+  },
+  {
+  "id": "5746ec50-1bfc-4d27-a4ee-6701925e251c",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "FRA",
+  "teamB": "USA",
+  "location": "Field 4"
+  },
+  {
+  "id": "7348fb5e-fbe8-4e04-b3b2-f5f60cd9d075",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "WAL",
+  "teamB": "PHL",
+  "location": "Field 5"
+  },
+  {
+  "id": "76305e59-9696-4375-9ddb-dbd55da2afa1",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "13",
+  "teamA": "FRA",
+  "teamB": "HKG",
+  "location": "Field 6"
+  },
+  {
+  "id": "06b44e5b-c4b3-4328-bd9d-2ca127210740",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "PNG",
+  "teamB": "USA",
+  "location": "Field 7"
+  },
+  {
+  "id": "65a148f4-769e-4648-9a9d-0ece6fb7f137",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "13",
+  "teamA": "SCO",
+  "teamB": "ITA",
+  "location": "Field 8"
+  },
+  {
+  "id": "b5e35331-6015-4630-9c27-df3c38976a4f",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Mixed Open",
+  "round": "13",
+  "teamA": "CHL",
+  "teamB": "USA",
+  "location": "Field 10"
+  },
+  {
+  "id": "6e8b244f-e81b-43f8-8e00-635eedda5b43",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "IRL",
+  "teamB": "COK",
+  "location": "Field 12"
+  },
+  {
+  "id": "651b354e-01e4-4f27-98f7-b9d887006eb9",
+  "scheduledStartTime": "2019-05-03T00:00:00Z",
+  "scheduledEndTime": "2019-05-03T00:50:00Z",
+  "comp": "Mixed 30",
+  "round": "13",
+  "teamA": "SGP",
+  "teamB": "ARE",
+  "location": "Field 13"
+  },
+  {
+  "id": "782fb181-b1fc-4541-ac25-fd1e311c6f59",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "SGP",
+  "teamB": "MYS",
+  "location": "Field 2"
+  },
+  {
+  "id": "0f1518d0-0621-4ffb-9873-a96915307edb",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "PNG",
+  "teamB": "NLD",
+  "location": "Field 4"
+  },
+  {
+  "id": "ff674cb2-fb35-4e86-81c3-23c7ee04a4d3",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "13",
+  "teamA": "ENG",
+  "teamB": "SCO",
+  "location": "Field 6"
+  },
+  {
+  "id": "9e438934-bbd6-4137-ac30-cfe37446f81d",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "FRA",
+  "teamB": "NLD",
+  "location": "Field 7"
+  },
+  {
+  "id": "a3dc6b7f-a363-4e6f-8d26-f9b98d25ad0a",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "13",
+  "teamA": "ZAF",
+  "teamB": "ARE",
+  "location": "Field 8"
+  },
+  {
+  "id": "52efa5a7-30d1-4f98-b6f9-9b6210bca78e",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "13",
+  "teamA": "ENG",
+  "teamB": "DEU",
+  "location": "Field 9"
+  },
+  {
+  "id": "8b3d7f99-c406-43f1-8d92-73f9dde630a0",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Mixed Open",
+  "round": "13",
+  "teamA": "NZL",
+  "teamB": "CHN",
+  "location": "Field 10"
+  },
+  {
+  "id": "5db0f1f0-130a-4173-a8ad-7c645093b3b4",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "WAL",
+  "teamB": "PHL",
+  "location": "Field 12"
+  },
+  {
+  "id": "85799e0d-75b5-4831-989d-d909aeff1818",
+  "scheduledStartTime": "2019-05-03T00:50:00Z",
+  "scheduledEndTime": "2019-05-03T01:40:00Z",
+  "comp": "Mixed 30",
+  "round": "13",
+  "teamA": "IRL",
+  "teamB": "COK",
+  "location": "Field 13"
+  },
+  {
+  "id": "e6b7f181-71f5-44fa-a6ad-6d9ed59347f0",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "ZAF",
+  "teamB": "ENG",
+  "location": "Field 1"
+  },
+  {
+  "id": "a85324a3-f91f-4a2f-80cf-bfe9d47d6674",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "SGP",
+  "teamB": "SCO",
+  "location": "Field 4"
+  },
+  {
+  "id": "e5e3fd02-2369-488d-8755-5aeaad1e266c",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "WSM",
+  "teamB": "FJI",
+  "location": "Field 5"
+  },
+  {
+  "id": "8f9f272d-f017-47ab-ab63-1222cbf78be6",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Men's Open",
+  "round": "10",
+  "teamA": "AUS",
+  "teamB": "JPN",
+  "location": "Field 6"
+  },
+  {
+  "id": "1116d4b5-fecb-4d1f-9844-447c6fa53f20",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "JPN",
+  "teamB": "FJI",
+  "location": "Field 8"
+  },
+  {
+  "id": "c4f4111c-2c2d-492e-85fd-df84fe88788d",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "WSM",
+  "teamB": "CHN",
+  "location": "Field 9"
+  },
+  {
+  "id": "fdcbf2e3-292c-412e-9d29-269f027f253c",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "AUS",
+  "teamB": "ENG",
+  "location": "Field 10"
+  },
+  {
+  "id": "af60be16-7cb8-4bb0-80e8-93f5446a794b",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Women's Open",
+  "round": "10",
+  "teamA": "SCO",
+  "teamB": "ZAF",
+  "location": "Field 11"
+  },
+  {
+  "id": "c3f6b397-25f1-434e-abdb-e2f38733af5a",
+  "scheduledStartTime": "2019-05-03T02:30:00Z",
+  "scheduledEndTime": "2019-05-03T03:20:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "WAL",
+  "teamB": "JPN",
+  "location": "Field 12"
+  },
+  {
+  "id": "89321a2a-1be4-49a1-a94a-8ad68280ce70",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "NLD",
+  "teamB": "PHL",
+  "location": "Field 2"
+  },
+  {
+  "id": "7e402771-28fa-4c31-b073-375ad415d0e9",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "FRA",
+  "teamB": "WAL",
+  "location": "Field 4"
+  },
+  {
+  "id": "04cc40e1-6bb4-4cb7-b2a1-dc8651dd5a27",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "NZL",
+  "teamB": "COK",
+  "location": "Field 5"
+  },
+  {
+  "id": "c0dc4171-b661-4844-b8b9-252aef113d93",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "NZL",
+  "teamB": "USA",
+  "location": "Field 7"
+  },
+  {
+  "id": "a395708d-2ac8-49dc-81bf-7ad590bda71d",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "TPE",
+  "teamB": "MYS",
+  "location": "Field 10"
+  },
+  {
+  "id": "38c6e892-9a2d-4a5f-8377-eb415557e692",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "PNG",
+  "teamB": "SGP",
+  "location": "Field 11"
+  },
+  {
+  "id": "3dd267d1-e455-4ff8-bd57-d4dc6b45857c",
+  "scheduledStartTime": "2019-05-03T03:20:00Z",
+  "scheduledEndTime": "2019-05-03T04:10:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "WSM",
+  "teamB": "IRL",
+  "location": "Field 12"
+  },
+  {
+  "id": "cfafaf6f-c4b7-42b4-a447-8fdcbbe105dc",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "MYS",
+  "teamB": "NLD",
+  "location": "Field 2"
+  },
+  {
+  "id": "c95e3dca-408d-4d5b-95b5-1375a20621d3",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "14",
+  "teamA": "ENG",
+  "teamB": "SGP",
+  "location": "Field 3"
+  },
+  {
+  "id": "11a0ed1e-fb74-4d9f-bdc9-e86e0a1b6052",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "PNG",
+  "teamB": "IRL",
+  "location": "Field 4"
+  },
+  {
+  "id": "09da9c76-aed4-47d1-b7ba-b87fba8854b2",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "WAL",
+  "teamB": "FRA",
+  "location": "Field 5"
+  },
+  {
+  "id": "6ad7e021-4350-4200-af24-911f23151411",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "SGP",
+  "teamB": "PNG",
+  "location": "Field 6"
+  },
+  {
+  "id": "b6fca3ed-ff6f-4ed2-ae71-7f64c982a54e",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "CHL",
+  "teamB": "FRA",
+  "location": "Field 8"
+  },
+  {
+  "id": "74178418-91bd-44fc-bcc5-e1d9225ce3a4",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "SCO",
+  "teamB": "ZAF",
+  "location": "Field 9"
+  },
+  {
+  "id": "645ae554-0f12-417e-addd-a8e8cb89476b",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "NZL",
+  "teamB": "FJI",
+  "location": "Field 11"
+  },
+  {
+  "id": "2d7f2bd7-041e-48df-b7b8-99b87e63de1c",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "14",
+  "teamA": "AUS",
+  "teamB": "CHL",
+  "location": "Field 12"
+  },
+  {
+  "id": "eebbc6db-8e87-4b6d-96c6-7e0f7373485e",
+  "scheduledStartTime": "2019-05-03T04:10:00Z",
+  "scheduledEndTime": "2019-05-03T05:00:00Z",
+  "comp": "Mixed 30",
+  "round": "14",
+  "teamA": "NZL",
+  "teamB": "ARE",
+  "location": "Field 13"
+  },
+  {
+  "id": "5dffddfb-66ff-43fd-97e0-05aff68feb21",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "ENG",
+  "teamB": "ARE",
+  "location": "Field 1"
+  },
+  {
+  "id": "e1afd79d-ad54-43aa-babe-8b8e69090e29",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "DEU",
+  "teamB": "USA",
+  "location": "Field 2"
+  },
+  {
+  "id": "68f0f685-61a0-45f1-9617-aa1d684f1eb8",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Mixed 30",
+  "round": "14",
+  "teamA": "IRL",
+  "teamB": "FRA",
+  "location": "Field 3"
+  },
+  {
+  "id": "0eb0f28b-1be3-4c06-85c3-76649f3f90fb",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Men's 30",
+  "round": "7",
+  "teamA": "JPN",
+  "teamB": "FRA",
+  "location": "Field 4"
+  },
+  {
+  "id": "d9b65267-7056-40a4-85d0-a5b5edff6de8",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Men's 30",
+  "round": "7",
+  "teamA": "FJI",
+  "teamB": "SGP",
+  "location": "Field 5"
+  },
+  {
+  "id": "c32613f5-d03f-487c-a311-11fbeabef393",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Men's 30",
+  "round": "7",
+  "teamA": "AUS",
+  "teamB": "USA",
+  "location": "Field 6"
+  },
+  {
+  "id": "e440b22b-bb31-4117-bd1e-3d8dbbbf3f25",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Men's 30",
+  "round": "7",
+  "teamA": "ENG",
+  "teamB": "ZAF",
+  "location": "Field 7"
+  },
+  {
+  "id": "987f7bef-d45d-444d-95a2-f628c0cd2a4e",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Mixed 30",
+  "round": "14",
+  "teamA": "ZAF",
+  "teamB": "COK",
+  "location": "Field 8"
+  },
+  {
+  "id": "34012f3a-9c98-4d01-9718-5a3eb4e6cec9",
+  "scheduledStartTime": "2019-05-03T05:05:00Z",
+  "scheduledEndTime": "2019-05-03T05:55:00Z",
+  "comp": "Mixed Open",
+  "round": "14",
+  "teamA": "AUS",
+  "teamB": "HKG",
+  "location": "Field 9"
+  },
+  {
+  "id": "6642e1c5-bbde-476e-852d-eda0c81ab040",
+  "scheduledStartTime": "2019-05-03T06:00:00Z",
+  "scheduledEndTime": "2019-05-03T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "AUS",
+  "teamB": "ZAF",
+  "location": "Field 2"
+  },
+  {
+  "id": "fa8a62ad-c856-4cb9-a245-41805e45c681",
+  "scheduledStartTime": "2019-05-03T06:00:00Z",
+  "scheduledEndTime": "2019-05-03T06:50:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "ENG",
+  "teamB": "FJI",
+  "location": "Field 6"
+  },
+  {
+  "id": "7dde117a-14af-4f85-8188-422919dc8249",
+  "scheduledStartTime": "2019-05-03T06:00:00Z",
+  "scheduledEndTime": "2019-05-03T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "FJI",
+  "teamB": "JPN",
+  "location": "Field 8"
+  },
+  {
+  "id": "bd6bdc1d-0804-42da-beb8-52f5918e765f",
+  "scheduledStartTime": "2019-05-03T06:00:00Z",
+  "scheduledEndTime": "2019-05-03T06:50:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "SCO",
+  "teamB": "WSM",
+  "location": "Field 11"
+  },
+  {
+  "id": "1babec83-4533-44b6-94fc-2cacc553a292",
+  "scheduledStartTime": "2019-05-03T07:10:00Z",
+  "scheduledEndTime": "2019-05-03T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "12",
+  "teamA": "NZL",
+  "teamB": "PHL",
+  "location": "Field 5"
+  },
+  {
+  "id": "967aa85e-22de-4e9f-bb66-8e098f5b6c1b",
+  "scheduledStartTime": "2019-05-03T07:10:00Z",
+  "scheduledEndTime": "2019-05-03T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "SCO",
+  "teamB": "CHN",
+  "location": "Field 6"
+  },
+  {
+  "id": "257c59d1-985f-403b-b707-eaf478265847",
+  "scheduledStartTime": "2019-05-03T07:10:00Z",
+  "scheduledEndTime": "2019-05-03T08:00:00Z",
+  "comp": "Men's Open",
+  "round": "12",
+  "teamA": "NZL",
+  "teamB": "USA",
+  "location": "Field 7"
+  },
+  {
+  "id": "cb0c69a5-a35d-45ce-a6dc-1d327efba4de",
+  "scheduledStartTime": "2019-05-03T07:10:00Z",
+  "scheduledEndTime": "2019-05-03T08:00:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "ENG",
+  "teamB": "SGP",
+  "location": "Field 8"
+  },
+  {
+  "id": "3d3d63db-d466-4652-9d7a-8ab98249eef7",
+  "scheduledStartTime": "2019-05-03T07:10:00Z",
+  "scheduledEndTime": "2019-05-03T08:00:00Z",
+  "comp": "Men's Open",
+  "round": "11",
+  "teamA": "AUS",
+  "teamB": "ZAF",
+  "location": "Field 10"
+  },
+  {
+  "id": "cbe9828b-975f-4109-96ee-62bb3511f402",
+  "scheduledStartTime": "2019-05-03T07:10:00Z",
+  "scheduledEndTime": "2019-05-03T08:00:00Z",
+  "comp": "Women's Open",
+  "round": "11",
+  "teamA": "JPN",
+  "teamB": "WSM",
+  "location": "Field 11"
+  },
+  {
+  "id": "b8e2d41d-1f53-4520-a286-c8369fb3b618",
+  "scheduledStartTime": "2019-05-03T08:20:00Z",
+  "scheduledEndTime": "2019-05-03T09:10:00Z",
+  "comp": "Mixed Open",
+  "round": "15",
+  "teamA": "WAL",
+  "teamB": "MYS",
+  "location": "Field 6"
+  },
+  {
+  "id": "9f06c9d0-bd6d-45f9-a801-de797f774be3",
+  "scheduledStartTime": "2019-05-03T08:20:00Z",
+  "scheduledEndTime": "2019-05-03T09:10:00Z",
+  "comp": "Mixed Open",
+  "round": "15",
+  "teamA": "IRL",
+  "teamB": "SGP",
+  "location": "Field 7"
+  },
+  {
+  "id": "90f9ae6f-55e7-45b2-a567-8a29cc7818d8",
+  "scheduledStartTime": "2019-05-03T08:20:00Z",
+  "scheduledEndTime": "2019-05-03T09:10:00Z",
+  "comp": "Mixed Open",
+  "round": "15",
+  "teamA": "PNG",
+  "teamB": "TPE",
+  "location": "Field 8"
+  },
+  {
+  "id": "9c67a9fb-9bea-49ff-bb1c-631bf22ed8c6",
+  "scheduledStartTime": "2019-05-03T08:20:00Z",
+  "scheduledEndTime": "2019-05-03T09:10:00Z",
+  "comp": "Mixed Open",
+  "round": "15",
+  "teamA": "JPN",
+  "teamB": "FJI",
+  "location": "Field 10"
+  },
+  {
+  "id": "29d8436f-ebd8-48d6-b3ac-d9b279b619cd",
+  "scheduledStartTime": "2019-05-03T08:20:00Z",
+  "scheduledEndTime": "2019-05-03T09:10:00Z",
+  "comp": "Mixed 30",
+  "round": "15",
+  "teamA": "AUS",
+  "teamB": "SCO",
+  "location": "Field 13"
+  },
+  {
+  "id": "b1702c44-51f9-4371-8e88-6376d66b4810",
+  "scheduledStartTime": "2019-05-03T09:30:00Z",
+  "scheduledEndTime": "2019-05-03T10:20:00Z",
+  "comp": "Mixed Open",
+  "round": "15",
+  "teamA": "AUS",
+  "teamB": "ITA",
+  "location": "Field 4"
+  },
+  {
+  "id": "4f96e5ac-8787-4929-abb1-d6893f6c35b1",
+  "scheduledStartTime": "2019-05-03T09:30:00Z",
+  "scheduledEndTime": "2019-05-03T10:20:00Z",
+  "comp": "Mixed Open",
+  "round": "15",
+  "teamA": "WSM",
+  "teamB": "CHN",
+  "location": "Field 7"
+  }
+  ]

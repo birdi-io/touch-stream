@@ -1,0 +1,14 @@
+ENV: production
+HOST: 0.0.0.0
+PORT: 80
+MONGO_CONNECTION_STRING: mongodb://user:password@0.0.0.0:27017/touch-prod
+DB_NAME: touch
+TOUCH_SECRET:
+GOOGLE_CLIENT_ID:
+GOOGLE_CLIENT_SECRET:
+FIT_TOKEN:
+FIT_API_URL: https://www.internationaltouch.org/api
+WEBHOOKS: true # TODO: Move to mongo config?
+FIT_SEASON:
+JWT_SECRET:
+PASSWORD:

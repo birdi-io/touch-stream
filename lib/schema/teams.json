@@ -1,0 +1,126 @@
+{
+  "are": {
+    "name": "United Arab Emirates",
+    "emoji": "🇦🇪"
+  },
+  "aus": {
+    "name": "Australia",
+    "emoji": "🇦🇺"
+  },
+  "bel": {
+    "name": "Belgium",
+    "emoji": "🇦🇪"
+  },
+  "chl": {
+    "name": "Chile",
+    "emoji": "🇨🇨"
+  },
+  "che": {
+    "name": "Switzerland",
+    "emoji": "🇨🇭"
+  },
+  "chn": {
+    "name": "China",
+    "emoji": "🇨🇳"
+  },
+  "cze": {
+    "name": "Czech Republic",
+    "emoji": "🇨🇿"
+  },
+  "cok": {
+    "name": "Cook Islands",
+    "emoji": "🇨🇰"
+  },
+  "deu": {
+    "name": "Germany",
+    "emoji": "🇩🇪"
+  },
+  "eng": {
+    "name": "England",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "eur": {
+    "name": "Europe",
+    "emoji": "🇪🇺"
+  },
+  "fji": {
+    "name": "Fiji",
+    "emoji": "🇫🇯"
+  },
+  "fra": {
+    "name": "France",
+    "emoji": "🇫🇷"
+  },
+  "gbr": {
+    "name": "Great Britain",
+    "emoji": "🇬🇧"
+  },
+  "hkg": {
+    "name": "Hong Kong",
+    "emoji": "🇭🇰"
+  },
+  "ind": {
+    "name": "India",
+    "emoji": "🇮🇳"
+  },
+  "irl": {
+    "name": "Ireland",
+    "emoji": "🇮🇪"
+  },
+  "ita": {
+    "name": "Italy",
+    "emoji": "🇮🇹"
+  },
+  "jpn": {
+    "name": "Japan",
+    "emoji": "🇯🇵"
+  },
+  "mys": {
+    "name": "Malaysia",
+    "emoji": "🇲🇾"
+  },
+  "nld": {
+    "name": "Netherlands",
+    "emoji": "🇳🇱"
+  },
+  "nzl": {
+    "name": "New Zealand",
+    "emoji": "🇳🇿"
+  },
+  "phl": {
+    "name": "Philippines",
+    "emoji": "🇵🇭"
+  },
+  "png": {
+    "name": "Papua New Guinea",
+    "emoji": "🇵🇬"
+  },
+  "sco": {
+    "name": "Scotland",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  },
+  "sgp": {
+    "name": "Singapore",
+    "emoji": "🇸🇬"
+  },
+  "tpe": {
+    "name": "Chinese Taipei",
+    "emoji": "🇹🇼"
+  },
+  "usa": {
+    "name": "United States",
+    "emoji": "🇺🇸"
+  },
+  "wal": {
+    "name": "Wales",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+  },
+  "wsm": {
+    "name": "Samoa",
+    "emoji": "🇼🇸󠁢󠁷󠁬󠁳󠁿"
+  },
+  "zaf": {
+    "name": "South Africa",
+    "emoji": "🇿🇦"
+  }
+}
