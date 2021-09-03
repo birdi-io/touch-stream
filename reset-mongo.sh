@@ -6,7 +6,7 @@ DB_NAME=touch-dev
 NETWORK_NAME=touch
 
 echo "Creating Docker network '$NETWORK_NAME'"
-#docker network create $NETWORK_NAME &>/dev/null
+docker network create $NETWORK_NAME &>/dev/null
 
 echo "Attempting to delete container '$CONTAINER'"
 docker stop $CONTAINER &>/dev/null

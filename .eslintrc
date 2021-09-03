@@ -1,9 +1,16 @@
 {
-    "extends": "airbnb-base",
-    "rules": {
-        "strict": 0,
-        "implicit-arrow-linebreak": 0,
-        "indent": ["error", 2],
-        "no-underscore-dangle": 0
-    }
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "env": {
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "rules": {
+      "strict": 0,
+      "implicit-arrow-linebreak": 0,
+      "indent": ["error", 2],
+      "no-underscore-dangle": 0
+  }
 }

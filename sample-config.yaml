@@ -1,8 +1,7 @@
 ENV: production
 HOST: 0.0.0.0
 PORT: 80
-MONGO_CONNECTION_STRING: mongodb://user:password@0.0.0.0:27017/touch-prod
-DB_NAME: touch
+MONGO_CONNECTION_STRING: mongodb://dev:dev@0.0.0.0:27017/touch-dev
 TOUCH_SECRET:
 GOOGLE_CLIENT_ID:
 GOOGLE_CLIENT_SECRET:

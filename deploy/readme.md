@@ -7,7 +7,6 @@ cd vultr
 terraform init
 terraform apply
 # Install Podman
-# Build docker registry with self-signed
 # Building and pushing docker image
 docker login $server_ip:443
 export VER=$(git log --pretty=format:"%h" | head -1)
@@ -19,6 +18,6 @@ scp config.json $server_ip:/srv/config.json
 # Systemd services
 scp mongodb.unit $server_ip:/etc/systemd
 scp api.unit $server_ip:/etc/systemd
-# LetsEncrypt
+# LetsEncrypt + Nginx
 # Run
 ```
