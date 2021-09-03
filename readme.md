@@ -11,6 +11,11 @@ npm run db # Run local mongo instance
 npm run start -s # Run API
 ```
 
+## Getting Youtube credentials
+1. Open up [Google Cloud Console](https://console.cloud.google.com/apis/api/youtube.googleapis.com/overview)
+2. Create OAuth token and input client id and secret into config.yaml
+3. Run `node generate-google-api-token` and return input token. If no refresh token is output into google-tokens.json, please go to your associated [Google account](https://myaccount.google.com/u/0/permissions).
+
 ## Front-end
 - See github.com/birdi/touch-stream-ui
 

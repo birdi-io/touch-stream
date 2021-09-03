@@ -1,12 +1,16 @@
 // This authenticator saves single client Google credentials
 // for a particular account to ./tokens.json
+//
 
 import fs from 'fs';
-import path from 'path';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 import readline from 'readline';
 import open from 'open';
 import { google } from 'googleapis';
 import { config } from './lib/config.js';
+
+const thisDir = dirname(fileURLToPath(import.meta.url));
 
 const oauth2Client = new google.auth.OAuth2(
   config.GOOGLE_CLIENT_ID,
@@ -34,6 +38,6 @@ const rl = readline.createInterface({
 rl.question('Enter code from returned query string ', (answer) => {
   oauth2Client.getToken(decodeURIComponent(answer))
     .then(({ tokens }) =>
-      fs.writeFileSync(path.join(__dirname, 'tokens.new.json'), JSON.stringify(tokens, null, 2)));
+      fs.writeFileSync(join(thisDir, 'google-token.json'), JSON.stringify(tokens, null, 2)));
   rl.close();
 });
