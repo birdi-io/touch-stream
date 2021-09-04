@@ -1,0 +1,11 @@
+#cloud-config
+users:
+  - default
+  - name: name
+    gecos: Full name
+    shell: /bin/bash
+    lock_passwd: true
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    ssh_authorized_keys:
+    - ssh-ed25519 etc...
+# TODO: add to docker group

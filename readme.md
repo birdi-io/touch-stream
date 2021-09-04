@@ -51,6 +51,7 @@ npm run start -s # Run API
 - User management
 - Add Typescript
 - Delete timeslot persistence layer (at most store in memory)
+- SSH refresh unit
 
 ## License
 TBD

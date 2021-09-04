@@ -1,0 +1,15 @@
+[Unit]
+  Description=nginx api proxy
+  After=docker.service
+  Requires=docker.service
+
+  [Service]
+  Type=simple
+  TimeoutStartSec=0
+  ExecStartPre=-/usr/bin/docker kill nginx
+  ExecStartPre=-/usr/bin/docker rm nginx
+  ExecStart=/home/daniel/nginx.sh
+  ExecStop=/usr/bin/docker rm -f nginx
+
+  [Install]
+  WantedBy=multi-user.target

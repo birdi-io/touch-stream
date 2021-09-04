@@ -1,0 +1,16 @@
+[Unit]
+Description=Touch API
+Documentation=https://github.com/flybirdi/touch-stream
+After=docker.service
+Requires=docker.service
+
+[Service]
+Type=simple
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill touch-api
+ExecStartPre=-/usr/bin/docker rm touch-api
+ExecStart=/srv/api.sh
+ExecStop=/usr/bin/docker rm -f touch-api
+
+[Install]
+WantedBy=multi-user.target
