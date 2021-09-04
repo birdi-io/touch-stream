@@ -30,6 +30,7 @@ npm run start -s # Run API
 - [Daniel Gormly](https://github.com/danielgormly)
 
 ## TODO:
+- Allow multiple competitions per instance
 - Switch persistence layer to PostgreSQL
 - Document API
 - Dynamic config
@@ -49,7 +50,10 @@ npm run start -s # Run API
 - Variable stream keys
 - User management
 - Add Typescript
-- Allow multiple competitions per instance
+- Delete timeslot persistence layer (at most store in memory)
 
 ## License
 TBD
+
+## Fit Sync Note
+There is currently a +1hr modifier to the FIT sync code
