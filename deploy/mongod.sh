@@ -1,8 +1,8 @@
 #!/bin/bash
 # Runs Mongodb
 
-docker run \
-  -v '/srv/config.yaml:/home/me/app/config.yaml' \
-  --network touch-stream \
-  --name touch-api \
-  10.0.0.22:443/api:lifeboat
+docker run -e 'TZ=Australia/Sydney' -d --rm -p 27017:27017 \
+  -e MONGO_INITDB_ROOT_USERNAME=dev \
+  -e MONGO_INITDB_ROOT_PASSWORD=dev \
+  --network touch-stream --name $CONTAINER \
+  mongo:5.0.2 mongod --storageEngine wiredTiger --auth
