@@ -49,6 +49,7 @@ npm run start -s # Run API
 - Variable stream keys
 - User management
 - Add Typescript
+- Allow multiple competitions per instance
 
 ## License
 TBD
