@@ -12,6 +12,8 @@ npm run start -s # Run API
 ```
 
 ## Getting Youtube credentials
+- Note: After periods of inactivity, you may need to refresh this key. Or your daily quota for the youtube v3 data api will reduce to 0 and you will have to create an entire new project.
+- Note: You will need to create this app in test mode initially.
 1. Open up [Google Cloud Console](https://console.cloud.google.com/apis/api/youtube.googleapis.com/overview)
 2. Create OAuth token and input client id and secret into config.yaml
 3. Run `node generate-google-api-token` and return input token. If no refresh token is output into google-tokens.json, please go to your associated [Google account](https://myaccount.google.com/u/0/permissions).
