@@ -18,7 +18,8 @@ export server_ip=xyz
 # Move required files to server
 scp -r ./deploy/* $server_ip:/home/daniel
 ssh $server_ip "sudo mv /home/daniel/*.service /etc/systemd/system/"
-scp config.yaml $server_ip:/srv/config.yaml
+scp config.yaml $server_ip:/srv/
+scp google-token.json $server_ip:/srv/
 ssh $server_ip "sudo mv /home/daniel/* /srv"
 
 # Create Docker network
