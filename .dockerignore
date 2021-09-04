@@ -3,3 +3,5 @@ deploy
 debug
 vultr
 reset-mongo.sh
+config.yaml
+google-token.json
