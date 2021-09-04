@@ -3,28 +3,55 @@ Running a containerised API/DB on a single instance.
 *Prerequisites:* Terraform, Vultr account
 
 ```bash
+# Provision infrastructure
 cd vultr
-# Create cloud-init file
+# create cloud-init file
 cp cloud-init.sample.yaml cloud-init.yaml
 terraform init
 terraform apply
 terraform show
-ssh $ip
-# Install Docker
+
+export server_ip=xyz
+# Install Docker on instance
 # https://docs.docker.com/engine/install/debian/
+
+# Move required files to server
+scp -r ./deploy/* $server_ip:/home/daniel
+ssh $server_ip "sudo mv /home/daniel/*.service /etc/systemd/system/"
+scp config.yaml $server_ip:/srv/config.yaml
+ssh $server_ip "sudo mv /home/daniel/* /srv"
+
 # Create Docker network
-docker network create touch
-# Building and pushing docker image
-docker login $server_ip:
-export VER=$(git log --pretty=format:"%h" | head -1)
-docker build --build-arg NPM_TOKEN=${NPM_TOKEN} -t $server_ip:443/jtc:$VER .
-docker run --rm -it -p 8000:8000 $server_ip:443/jtc:$VER ## Test run
-docker push $server_ip:443/jtc:$VER
-# Config setup
-scp config.json $server_ip:/srv/config.json
-# Systemd services
-scp mongodb.unit $server_ip:/etc/systemd
-scp api.unit $server_ip:/etc/systemd
-# LetsEncrypt + Nginx
-# Run
+sudo docker network create touch-stream
+
+# Build and push docker image
+./build.sh
+
+# Enable Mongo systemd unit
+docker volume create mongodbdata
+sudo systemctl enable mongo
+sudo systemctl start mongo
+sudo systemctl status mongo
+
+# Create production user
+echo "Creating global user"
+export MONGO_PASS=abcde1235
+docker exec mongo mongosh touch-prod \
+  -u prod -p prod \
+  --authenticationDatabase admin \
+  --eval "db.createUser({user:'prod',pwd:'$MONGO_PASS',roles:['readWrite','dbAdmin']})"
+
+# Enable API systemd unit
+sudo systemctl enable api
+sudo systemctl start api
+sudo systemctl status api
+
+# LetsEncrypt + Nginx + SSL
+# Ensure cloudflare.ini is filled out
+./generate-cert.sh
+sudo systemctl enable nginx
+sudo systemctl start nginx
+sudo systemctl status nginx
+
+# TODO: Implement SSL renewals
 ```

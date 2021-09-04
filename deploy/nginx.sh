@@ -3,7 +3,7 @@
 
 docker run \
   -v 'certs:/etc/letsencrypt' \
-  -v '/srv/api.conf:/etc/nginx/conf.d/api.conf:ro' \
+  -v '/srv/proxy.conf:/etc/nginx/conf.d/proxy.conf:ro' \
   -p '80:80' \
   -p '443:443' \
   --network touch-stream \

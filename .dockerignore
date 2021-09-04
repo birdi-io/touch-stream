@@ -1,3 +1,5 @@
 node_modules
 deploy
 debug
+vultr
+reset-mongo.sh

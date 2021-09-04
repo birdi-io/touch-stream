@@ -8,7 +8,7 @@
   TimeoutStartSec=0
   ExecStartPre=-/usr/bin/docker kill nginx
   ExecStartPre=-/usr/bin/docker rm nginx
-  ExecStart=/home/daniel/nginx.sh
+  ExecStart=/srv/nginx.sh
   ExecStop=/usr/bin/docker rm -f nginx
 
   [Install]
